@@ -1,0 +1,203 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Serif JP', serif;
+}
+
+/* h3 태그에 굵게 적용 */
+h3 {
+  font-weight: 700; /* 굵은 글꼴 (Bold) */
+}
+
+h4 {
+  font-weight: 700; /* 굵은 글꼴 (Bold) */
+}
+
+/* append your custom style below */
+ruby rt {
+  color: #ff0000; /* 원하는 색상으로 변경 */
+  font-size: 0.5em;
+}
+
+.video-wrapper {
+  max-width: 800px; /* 원하는 최대 너비 */
+  margin: 0 auto;
+}
+
+/* Plyr 플레이어를 둥근 모서리로 만들기 */
+.plyr {
+  border-radius: 10px; /* 원하는 값으로 조정 */
+  overflow: hidden; /* 둥근 모서리를 유지 */
+}
+/* Plyr 플레이어의 색상을 변경 */
+.plyr--video .plyr__control--overlaid {
+  color: #ffffff; /* 원하는 색상으로 변경 */
+}
+
+/* emoji */
+.emoji {
+  display: inline-block;
+  width: 24px; /* 원하는 크기로 설정 */
+  height: 24px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.boy {background-image: url('/assets/img/emojis/boy.png');}
+.chatgpt {background-image: url('/assets/img/emojis/chatgpt.png');}
+.girl {background-image: url('/assets/img/emojis/girl.png');}
+.github {background-image: url('/assets/img/emojis/github.png');}
+.man {background-image: url('/assets/img/emojis/man.png');}
+.teamwork {background-image: url('/assets/img/emojis/teamwork.png');}
+.tyrolean {background-image: url('/assets/img/emojis/tyrolean.png');}
+.woman {background-image: url('/assets/img/emojis/woman.png');}
+.woman2 {background-image: url('/assets/img/emojis/woman2.png');}
+.woman3 {background-image: url('/assets/img/emojis/woman3.png');}
+.woman4 {background-image: url('/assets/img/emojis/woman4.png');}
+.woman5 {background-image: url('/assets/img/emojis/woman5.png');}
+.youngman {background-image: url('/assets/img/emojis/youngman.png');}
+
+:root {
+  --grey-bg: #d3d3d3;
+  --blue-bg: #003366;
+  --green-bg: #004d00;
+  --red-bg: #8b0a1a ;
+  --yellow-bg: #ffcc00;
+  --purple-bg: #6941c6;
+  --white-text: #ffffff;
+  --black-text: #000000;
+  --grey-text: #e8e8e8;
+}
+
+/* custom.css */
+.bg-blue {
+  background-color: var(--blue-bg);
+  color: var(--white-text);
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-line;
+  display: inline-block;
+  width: 100%;
+  text-align: justify;
+}
+
+.my-thought {
+  background-color: var(--purple-bg);
+  color: var(--white-text);
+  border-left: 4px solid var(--yellow-bg); /* 시각적 대비 */
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  line-height: 1.75;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.bg-blue a {
+  color: var(--white-text) !important; /* 링크의 폰트 색상 */
+  text-decoration: none !important; /* 밑줄 제거 */
+}
+
+.bg-blue a:hover,
+.bg-blue a:focus,
+.bg-blue a:active {
+  color: var(--white-text) !important; /* 링크의 폰트 색상 */
+  text-decoration: none !important; /* 밑줄 제거 */
+}
+
+.bg-red {
+  background-color: var(--red-bg);
+  color: var(--white-text);
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-line;
+  display: inline-block;
+}
+
+.bg-yellow {
+  background-color: var(--yellow-bg);
+  color: var(--black-text);
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-line;
+  display: inline-block;
+}
+
+.bg-purple {
+  background-color: var(--purple-bg);
+  color: var(--grey-text);
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-line;
+  display: inline-block;
+}
+
+.bg-grey {
+  background-color: var(--grey-bg);
+  color: var(--black-text);
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-line;
+  display: inline-block;
+}
+
+pre code {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+pre {
+  background-color: #f5f5f5; /* 배경색 */
+  padding: 20px; /* 내부 여백 */
+  border-radius: 8px; /* 테두리 둥글게 */
+  overflow: auto; /* 긴 코드에 스크롤 추가 */
+  font-size: 14px; /* 글씨 크기 */
+}
+
+code {
+  font-family: 'Courier New', monospace; /* 고정폭 글꼴 */
+  color: #d6336c; /* 코드 텍스트 색상 */
+}
+
+pre code {
+  background: none; /* 코드 블록 내 추가 배경 없음 */
+  color: inherit; /* 상속된 색상 사용 */
+  padding: 2px 6px; /* 내부 여백 추가 */
+  border-radius: 4px; /* 테두리 둥글게 */
+  font-family: monospace; /* 고정폭 글꼴 */
+  font-weight: 500; /* 글꼴 두께 설정 */
+}
+
+.justify {
+  text-align: justify;
+}
+
+.img-left {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+}
+
+.img-left img {
+  max-width: 300px;
+  height: auto;
+}
+
+.img-float-left {
+  float: left !important;
+  width: 200px !important;
+  margin: 0 1em 1em 0;
+  display: inline !important;
+  max-width: none !important;
+}

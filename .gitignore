@@ -1,0 +1,48 @@
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+.jekyll-metadata
+_site
+
+# RubyGems
+*.gem
+
+# NPM dependencies
+node_modules
+package-lock.json
+
+# IDE configurations
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+
+# Misc
+
+# Obsidian 설정 파일 폴더
+.obsidian/
+.trash/
+*.md~
+z.*/
+
+# 임시 파일들
+*.bak
+*.swp
+*.swo
+*.log
+
+# 운영 체제별 임시 파일
+.DS_Store    # macOS
+Thumbs.db    # Windows
+Desktop.ini  # Windows
+
+# Git 대체 캐시 파일
+.gitmodules
+
+# VS Code 설정 파일 폴더
+.history/
