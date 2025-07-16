@@ -5,7 +5,15 @@ category: Reading Log
 tags:
   - book
   - 황현필
-  - 진보를위한역사
+  - 진보를
+  - 위한
+  - 역사
+  - 진짜
+  - 진보의
+  - 지침서
+  - 가짜
+  - 극우의
+  - 계몽서
 isbn: 9791198593283
 image: /assets/cover/History-for-Progress.jpg
 created: 2025-07-06 14:35:34
