@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: xixsxix.github.io
+created: 2026-04-28T10:03:23+09:00
