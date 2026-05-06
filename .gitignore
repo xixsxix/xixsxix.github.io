@@ -29,6 +29,7 @@ package-lock.json
 .trash/
 *.md~
 z.*/
+zz.*/
 
 # 임시 파일들
 *.bak
