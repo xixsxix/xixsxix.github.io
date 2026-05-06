@@ -16,7 +16,7 @@ tags:
   - 뷰티인사이드
 image: /assets/poster/allied.webp
 hide_image: false
-pin: true
+pin: false
 comments: "true"
 ---
 
