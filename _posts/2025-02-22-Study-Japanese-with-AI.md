@@ -7,7 +7,7 @@ tags:
   - 핫스팟_우주인출몰주의
   - sentence
   - japanese
-pin: true
+pin: false
 image: /assets/hotspot/png/hotspot-poster.png
 ---
 
