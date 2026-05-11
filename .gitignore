@@ -30,6 +30,7 @@ package-lock.json
 *.md~
 z.*/
 zz.*/
+z.FOLDER.zip
 
 # 임시 파일들
 *.bak
