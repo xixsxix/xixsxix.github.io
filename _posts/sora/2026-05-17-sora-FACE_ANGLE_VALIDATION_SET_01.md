@@ -9,7 +9,7 @@ tags:
   - face_validation
   - face_canon
   - angle_validation
-created: 2026-05-17
+created: 2026-05-17T19:00:00
 updated: 2026-05-17
 image:
   path: /assets/sora/SORA_FACE_ANGLE_VALIDATION_SET_01_04.jpg
