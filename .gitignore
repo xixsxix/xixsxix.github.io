@@ -48,3 +48,17 @@ Desktop.ini  # Windows
 
 # VS Code 설정 파일 폴더
 .history/
+
+# Syncthing
+.stfolder/
+.stignore
+syncing-folder-*.txt
+
+# OS / temp
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.part
+*.crdownload
