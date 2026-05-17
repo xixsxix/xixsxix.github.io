@@ -1,6 +1,6 @@
 ---
 type: shoot_log
-title: SHOOT_SORA_EUROPEAN_CAFE_BLACK_HEART_RUFFLE_DRESS_01
+title: EUROPEAN_CAFE_BLACK_HEART_RUFFLE_DRESS_01
 id:
 status: active
 character: SORA
@@ -19,7 +19,7 @@ tags:
   - black_heart_ruffle_dress
 created: 2026-05-17
 updated: 2026-05-17
-image:
+image: /assets/sora/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_01.jpg
 hide_image: false
 pin: false
 published: true
@@ -72,7 +72,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ## Shot 01 — 장소 소개 전신샷
 
-![[12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_01.jpg]]
+![[SORA/12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_01.jpg]]
 
 ```markdown
 [full body shot]
@@ -98,7 +98,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ## Shot 02 — 전신 변주샷
 
-![[12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_02.jpg]]
+![[SORA/12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_02.jpg]]
 
 ```markdown
 [full body shot]
@@ -124,7 +124,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ## Shot 03 — 상반신 의상 포커스샷
 
-![[12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_03.jpg]]
+![[SORA/12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_03.jpg]]
 
 ```markdown
 [waist-up shot]
@@ -150,7 +150,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ## Shot 04 — 착석샷
 
-![[12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_04.jpg]]
+![[SORA/12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_04.jpg]]
 
 ```markdown
 [seated pose]
@@ -176,7 +176,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ## Shot 05 — 기대는 샷
 
-![[12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_05.jpg]]
+![[SORA/12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_05.jpg]]
 
 ```markdown
 [slightly leaning pose]
@@ -201,7 +201,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ## Shot 06 — 얼굴 클로즈업
 
-![[12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_06.jpg]]
+![[SORA/12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_06.jpg]]
 
 ```markdown
 [face close-up]
@@ -228,7 +228,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ## Shot 07 — 의상 디테일샷
 
-![[12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_07.jpg]]
+![[SORA/12_BLOG_PUBLIC/images/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_07.jpg]]
 
 ```markdown
 [outfit detail shot]

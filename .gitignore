@@ -1,64 +1,99 @@
-# Bundler cache
-.bundle
-vendor
-Gemfile.lock
+# =========================================================
+# Bundler / Ruby
+# =========================================================
 
-# Jekyll cache
-.jekyll-cache
-.jekyll-metadata
-_site
-
-# RubyGems
+.bundle/
+vendor/
 *.gem
 
+# Gemfile.lock
+# Jekyll / GitHub Pages 환경에서 필요하면 추적 가능
+# 로컬에서만 무시하고 싶으면 아래 주석 해제
+# Gemfile.lock
+
+
+# =========================================================
+# Jekyll cache / build output
+# =========================================================
+
+.jekyll-cache/
+.jekyll-metadata
+_site/
+
+
+# =========================================================
 # NPM dependencies
-node_modules
+# =========================================================
+
+node_modules/
 package-lock.json
 
+
+# =========================================================
 # IDE configurations
-.idea
+# =========================================================
+
+.idea/
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/tasks.json
+.history/
 
-# Misc
 
-# Obsidian 설정 파일 폴더
+# =========================================================
+# Obsidian system files
+# =========================================================
+
 .obsidian/
 .trash/
 *.md~
+
+
+# =========================================================
+# Private workspaces
+# =========================================================
+
+SORA/
+XIXSXIX/
+
+# Common Obsidian work folders
 z.*/
+
+# Old / legacy private folders
 zz.*/
+
+# Backup archive
 z.FOLDER.zip
 
-# 임시 파일들
-*.bak
-*.swp
-*.swo
-*.log
 
-# 운영 체제별 임시 파일
-.DS_Store    # macOS
-Thumbs.db    # Windows
-Desktop.ini  # Windows
-
-# Git 대체 캐시 파일
-.gitmodules
-
-# VS Code 설정 파일 폴더
-.history/
-
+# =========================================================
 # Syncthing
+# =========================================================
+
 .stfolder/
 .stignore
 syncing-folder-*.txt
 
-# OS / temp
-.DS_Store
-Thumbs.db
-desktop.ini
+
+# =========================================================
+# Temporary files
+# =========================================================
+
 *.tmp
 *.bak
+*.swp
+*.swo
+*.log
 *.part
 *.crdownload
+
+
+# =========================================================
+# OS files
+# =========================================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+desktop.ini
