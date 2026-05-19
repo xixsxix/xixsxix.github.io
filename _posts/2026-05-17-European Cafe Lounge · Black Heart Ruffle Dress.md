@@ -5,8 +5,8 @@ categories:
   - SORAprompt
 tags:
   - sora_post
-image: /assets/sora/
-permalink: /sora_/
+image: /assets/sora/sora_european_cafe_black_heart_01_04.jpg
+permalink: /sora_ECLBHR01/
 hide_image: false
 pin: false
 published: true
