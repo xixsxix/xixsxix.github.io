@@ -12,6 +12,7 @@ created: 2025-07-06 16:29:41
 permalink: /Chokuk-Time/
 hide_image: false
 pin: false
+published: false
 ---
 
 ## 조국의 시간 <sup>(아픔과 진실 말하지 못한 생각)</sup>

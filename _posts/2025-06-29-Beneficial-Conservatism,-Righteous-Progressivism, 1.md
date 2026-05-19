@@ -19,7 +19,7 @@ image: /assets/cover/Beneficial.jpg
 created: 2025-06-29 08:18:09
 hide_image: false
 pin: false
-comments: "true"
+published: false
 ---
 
 ## 이로운 보수 의로운 진보 <sup>(최강 형제가 들려주는 최소한의 정치 교양)</sup>
