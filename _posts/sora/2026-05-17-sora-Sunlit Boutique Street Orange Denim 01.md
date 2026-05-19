@@ -9,7 +9,7 @@ frame: 9:16 vertical
 shoot_type: vertical_still_set
 shot_count: 7
 
-categories: [Sora]
+categories: [SORA Project]
 tags: [sora-post, boutique-street, orange-denim, runway-editorial, vertical-still-set]
 
 image:

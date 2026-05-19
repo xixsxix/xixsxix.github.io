@@ -2,7 +2,7 @@
 title: Sora European Cafe Black Heart Ruffle Dress 01
 date: 2026-05-17 16:00:00 +0900
 
-categories: [Sora]
+categories: [SORA Project]
 tags: [sora_post, european_cafe, black_heart_ruffle_dress]
 
 image:
