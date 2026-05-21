@@ -8,7 +8,7 @@ frame: 16:9 horizontal
 shoot_type: horizontal_scene_set
 shot_count: 6
 categories:
-  - SORA Project
+  - SORAprompt
 tags:
   - sora-post
   - horizontal-scene-set

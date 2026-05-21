@@ -8,7 +8,7 @@ frame: 9:16 vertical
 shoot_type: vertical_still_set
 shot_count: 7
 categories:
-  - SORA Project
+  - SORAprompt
 tags:
   - sora_post
 image:
