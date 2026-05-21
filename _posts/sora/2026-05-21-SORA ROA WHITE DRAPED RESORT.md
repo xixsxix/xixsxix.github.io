@@ -1,7 +1,7 @@
 ---
 type: studio
 title: ROA WHITE DRAPED RESORT
-date: 2026-05-21T18:23:54
+date: 2026-05-21T09:23:54
 categories:
   - SORAprompt
 tags:
