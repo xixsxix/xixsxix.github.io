@@ -5,7 +5,7 @@ categories:
   - RHEAprompt
 tags:
   - rhea_post
-image: /assets/rhea/rhea_european_cafe_black_heart_01_04.jpg
+image: //assets/rhea/sora_european_cafe_black_heart_01_04.jpg
 permalink: /rhea_ECLBHR01/
 hide_image: false
 pin: false
@@ -97,7 +97,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 01](assets/rhea/rhea_european_cafe_black_heart_01_01.jpg)
+![Shot 01](/assets/rhea/sora_european_cafe_black_heart_01_01.jpg)
 
 ### 사용 커맨드
 
@@ -125,7 +125,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 02](assets/rhea/rhea_european_cafe_black_heart_01_02.jpg)
+![Shot 02](/assets/rhea/sora_european_cafe_black_heart_01_02.jpg)
 
 ### 사용 커맨드
 
@@ -153,7 +153,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 03](assets/rhea/rhea_european_cafe_black_heart_01_03.jpg)
+![Shot 03](/assets/rhea/sora_european_cafe_black_heart_01_03.jpg)
 
 ### 사용 커맨드
 
@@ -181,7 +181,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 04](assets/rhea/rhea_european_cafe_black_heart_01_04.jpg)
+![Shot 04](/assets/rhea/sora_european_cafe_black_heart_01_04.jpg)
 
 ### 사용 커맨드
 
@@ -210,7 +210,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 05](assets/rhea/rhea_european_cafe_black_heart_01_05.jpg)
+![Shot 05](/assets/rhea/sora_european_cafe_black_heart_01_05.jpg)
 
 ### 사용 커맨드
 
@@ -239,7 +239,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 06](assets/rhea/rhea_european_cafe_black_heart_01_06.jpg)
+![Shot 06](/assets/rhea/sora_european_cafe_black_heart_01_06.jpg)
 
 ### 사용 커맨드
 
@@ -268,7 +268,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 07](assets/rhea/rhea_european_cafe_black_heart_01_07.jpg)
+![Shot 07](/assets/rhea/sora_european_cafe_black_heart_01_07.jpg)
 
 ### 사용 커맨드
 

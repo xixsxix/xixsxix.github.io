@@ -15,7 +15,7 @@ tags:
   - european-cafe
   - black-heart-ruffle-dress
 image:
-  path: /assets/rhea/european_cafe_black_heart_dress_horizontal_cover.jpg
+  path: //assets/rhea/european_cafe_black_heart_dress_horizontal_cover.jpg
   alt: rhea in a quiet European cafe wearing a black heart ruffle bow mini dress
 permalink: /rhea/cafe-heart-dress-horizontal/
 hide_image: false
@@ -108,7 +108,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 01](assets/rhea/european_cafe_black_heart_dress_horizontal_01.jpg)
+![Shot 01](/assets/rhea/european_cafe_black_heart_dress_horizontal_01.jpg)
 
 ### 사용 커맨드
 
@@ -139,7 +139,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 02](assets/rhea/european_cafe_black_heart_dress_horizontal_02.jpg)
+![Shot 02](/assets/rhea/european_cafe_black_heart_dress_horizontal_02.jpg)
 
 ### 사용 커맨드
 
@@ -170,7 +170,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 03](assets/rhea/european_cafe_black_heart_dress_horizontal_03.jpg)
+![Shot 03](/assets/rhea/european_cafe_black_heart_dress_horizontal_03.jpg)
 
 ### 사용 커맨드
 
@@ -202,7 +202,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 04](assets/rhea/european_cafe_black_heart_dress_horizontal_04.jpg)
+![Shot 04](/assets/rhea/european_cafe_black_heart_dress_horizontal_04.jpg)
 
 ### 사용 커맨드
 
@@ -233,7 +233,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 05](assets/rhea/european_cafe_black_heart_dress_horizontal_05.jpg)
+![Shot 05](/assets/rhea/european_cafe_black_heart_dress_horizontal_05.jpg)
 
 ### 사용 커맨드
 
@@ -264,7 +264,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 06](assets/rhea/european_cafe_black_heart_dress_horizontal_06.jpg)
+![Shot 06](/assets/rhea/european_cafe_black_heart_dress_horizontal_06.jpg)
 
 ### 사용 커맨드
 
