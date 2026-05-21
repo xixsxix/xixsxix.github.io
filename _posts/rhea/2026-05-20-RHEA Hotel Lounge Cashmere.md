@@ -10,9 +10,8 @@ categories:
   - RHEAprompt
 tags:
   - rhea_post
-image:
-  path: /assets/rhea/rhea_hotel_lounge_cashmere_01_cover.jpg
-  alt: rhea wearing a minimal stripe cashmere outfit at a luxury hotel lounge entrance
+image: assets/rhea/rhea_hotel_lounge_cashmere_01_cover.jpg
+
 permalink: /rhea/hotel-lounge-cashmere-01/
 hide_image: false
 pin: false
