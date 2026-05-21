@@ -10,9 +10,9 @@ categories:
   - RHEAprompt
 tags:
   - rhea_post
-image: /assets/rhea/rhea_hotel_lounge_cashmere_01_cover.jpg
+image: /assets/rhea/sora_hotel_lounge_cashmere_01_cover.jpg
 
-permalink: /rhea/hotel-lounge-cashmere-01/
+permalink: /hotel-lounge-cashmere-01/
 hide_image: false
 pin: false
 published: true

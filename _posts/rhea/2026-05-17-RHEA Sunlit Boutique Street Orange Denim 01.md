@@ -17,7 +17,7 @@ tags:
   - vertical-still-set
 image: /assets/rhea/sora_orange_denim_street_01_cover.jpg
 
-permalink: /rhea/orange-denim-street-01/
+permalink: /orange-denim-street-01/
 hide_image: false
 pin: false
 published: true
@@ -450,7 +450,7 @@ ENV_SUNLIT_BOUTIQUE_STREET는 이번 의상과 잘 맞는다. 환경이 과하�
 대표 이미지 경로:
 
 ```markdown
-/assets/rhea/rhea_orange_denim_street_01_cover.jpg
+/assets/rhea/sora_orange_denim_street_01_cover.jpg
 ```
 
 ---
