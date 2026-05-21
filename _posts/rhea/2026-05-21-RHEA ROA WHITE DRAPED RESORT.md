@@ -3,7 +3,7 @@ type: studio
 title: ROA WHITE DRAPED RESORT
 date: 2026-05-21T09:23:54
 categories:
-  - SORAprompt
+  - RHEAprompt
 tags:
   - studio
   - roa
@@ -102,7 +102,7 @@ published: true
 
 ### Shot 01 — Resort Seated Cover
 
-![Shot 01](/assets/sora/roa_white_draped_resort_01.jpg)
+![Shot 01](assets/rhea/roa_white_draped_resort_01.jpg)
 
 첫 번째 컷은 이번 촬영의 전체 콘셉트를 가장 안정적으로 보여주는 커버 후보 컷이다.
 
@@ -117,7 +117,7 @@ published: true
 
 ### Shot 02 — Off-Shoulder Detail Portrait
 
-![Shot 02](/assets/sora/roa_white_draped_resort_02.jpg)
+![Shot 02](assets/rhea/roa_white_draped_resort_02.jpg)
 
 두 번째 컷은 상반신 중심의 디테일 컷이다.
 
@@ -132,7 +132,7 @@ published: true
 
 ### Shot 03 — Vertical Seated Leg Line
 
-![Shot 03](/assets/sora/roa_white_draped_resort_03.jpg)
+![Shot 03](assets/rhea/roa_white_draped_resort_03.jpg)
 
 세 번째 컷은 세로 프레임으로 구성한 앉은 전신 계열 컷이다.
 
@@ -147,7 +147,7 @@ published: true
 
 ### Shot 04 — Main Cinematic Blog Cut
 
-![Shot 04](/assets/sora/roa_white_draped_resort_04.jpg)
+![Shot 04](assets/rhea/roa_white_draped_resort_04.jpg)
 
 네 번째 컷은 이번 촬영의 메인 블로그 컷으로 가장 적합하다.
 
@@ -163,7 +163,7 @@ published: true
 
 ### Shot 05 — Resort Close-up Portrait
 
-![Shot 05](/assets/sora/roa_white_draped_resort_05.jpg)
+![Shot 05](assets/rhea/roa_white_draped_resort_05.jpg)
 
 다섯 번째 컷은 얼굴 중심의 클로즈업 컷이다.
 
@@ -178,7 +178,7 @@ published: true
 
 ### Shot 06 — YouTube Thumbnail Candidate
 
-![Shot 06](/assets/sora/roa_white_draped_resort_06.jpg)
+![Shot 06](assets/rhea/roa_white_draped_resort_06.jpg)
 
 여섯 번째 컷은 유튜브 썸네일 후보로 가장 적합하다.
 
@@ -193,7 +193,7 @@ published: true
 
 ### Shot 07 — Quiet Ending Mood
 
-![Shot 07](/assets/sora/roa_white_draped_resort_07.jpg)
+![Shot 07](assets/rhea/roa_white_draped_resort_07.jpg)
 
 일곱 번째 컷은 촬영의 엔딩 컷으로 가장 좋다.
 
@@ -235,7 +235,7 @@ published: true
 
 ### 최종 커버 후보
 
-![Cover](/assets/sora/roa_white_draped_resort_04.jpg)
+![Cover](assets/rhea/roa_white_draped_resort_04.jpg)
 
 Shot 04를 최종 커버 후보로 선택한다.
 
@@ -244,19 +244,19 @@ Shot 04를 최종 커버 후보로 선택한다.
 
 ### 유튜브 썸네일 후보
 
-![Thumbnail](/assets/sora/roa_white_draped_resort_06.jpg)
+![Thumbnail](assets/rhea/roa_white_draped_resort_06.jpg)
 
 Shot 06은 제목을 넣을 수 있는 여백이 있고, 얼굴 가독성이 좋아 유튜브 썸네일에 적합하다.
 
 ### 인스타그램 후보
 
-![Instagram](/assets/sora/roa_white_draped_resort_03.jpg)
+![Instagram](assets/rhea/roa_white_draped_resort_03.jpg)
 
 Shot 03은 세로 프레임이라 인스타그램 피드나 쇼츠 커버로 활용하기 좋다.
 
 ### 엔딩 컷
 
-![Ending](/assets/sora/roa_white_draped_resort_07.jpg)
+![Ending](assets/rhea/roa_white_draped_resort_07.jpg)
 
 Shot 07은 포스트 마지막에 배치하기 좋다.  
 조용하고 여운 있는 분위기로 촬영을 마무리해준다.
