@@ -15,9 +15,8 @@ tags:
   - orange-denim
   - runway-editorial
   - vertical-still-set
-image:
-  path: /assets/rhea/sora_orange_denim_street_01_cover.jpg
-  alt: rhea Sunlit Boutique Street Orange Denim 01
+image: /assets/rhea/sora_orange_denim_street_01_cover.jpg
+
 permalink: /rhea/orange-denim-street-01/
 hide_image: false
 pin: false
@@ -185,7 +184,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 03](assets/rhea/sora_orange_denim_street_01_03.jpg)
+![Shot 03](/assets/rhea/sora_orange_denim_street_01_03.jpg)
 
 ### 사용 커맨드
 
@@ -251,7 +250,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 05](assets/rhea/sora_orange_denim_street_01_05.jpg)
+![Shot 05](/assets/rhea/sora_orange_denim_street_01_05.jpg)
 
 ### 사용 커맨드
 
@@ -286,7 +285,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 06](assets/rhea/sora_orange_denim_street_01_06.jpg)
+![Shot 06](/assets/rhea/sora_orange_denim_street_01_06.jpg)
 
 ### 사용 커맨드
 
@@ -319,7 +318,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 07](assets/rhea/sora_orange_denim_street_01_07.jpg)
+![Shot 07](/assets/rhea/sora_orange_denim_street_01_07.jpg)
 
 ### 사용 커맨드
 

@@ -5,7 +5,7 @@ categories:
   - RHEAprompt
 tags:
   - rhea_post
-image: //assets/rhea/sora_european_cafe_black_heart_01_04.jpg
+image: /assets/rhea/sora_european_cafe_black_heart_01_04.jpg
 permalink: /rhea_ECLBHR01/
 hide_image: false
 pin: false

@@ -14,9 +14,7 @@ tags:
   - horizontal-scene-set
   - european-cafe
   - black-heart-ruffle-dress
-image:
-  path: //assets/rhea/european_cafe_black_heart_dress_horizontal_cover.jpg
-  alt: rhea in a quiet European cafe wearing a black heart ruffle bow mini dress
+image: /assets/rhea/european_cafe_black_heart_dress_horizontal_cover.jpg
 permalink: /rhea/cafe-heart-dress-horizontal/
 hide_image: false
 pin: false
