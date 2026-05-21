@@ -4,20 +4,20 @@ date: '"2026-05-17 22:46:02 +0900"'
 categories:
   - RHEAprompt
 tags:
-  - sora_post
-image: /assets/sora/sora_european_cafe_black_heart_01_04.jpg
-permalink: /sora_ECLBHR01/
+  - rhea_post
+image: /assets/rhea/rhea_european_cafe_black_heart_01_04.jpg
+permalink: /rhea_ECLBHR01/
 hide_image: false
 pin: false
 published: true
 ---
 
-# Sora · European Cafe Lounge · Black Heart Ruffle Dress
+# rhea · European Cafe Lounge · Black Heart Ruffle Dress
 
 ## 01. 촬영 개요
 
-- 캐릭터: Sora
-- 촬영 ID: SORA_EUROPEAN_CAFE_BLACK_HEART_01
+- 캐릭터: rhea
+- 촬영 ID: rhea_EUROPEAN_CAFE_BLACK_HEART_01
 - 환경: ENV_EUROPEAN_CAFE_LOUNGE
 - 의상: OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 - 조명: ASHROSE
@@ -25,7 +25,7 @@ published: true
 - 촬영 타입: horizontal_scene_set
 - 총 샷 수: 7
 - 촬영 목적:  
-  유럽풍 카페 라운지의 따뜻한 창가 무드 안에서 Sora의 얼굴 동일성과 의상 정체성을 함께 보여주는 가로 장면 세트.  
+  유럽풍 카페 라운지의 따뜻한 창가 무드 안에서 rhea의 얼굴 동일성과 의상 정체성을 함께 보여주는 가로 장면 세트.  
   블로그 포스트, YouTube 이미지 영상, Instagram 단독 이미지 재사용을 모두 고려한 구성.
 
 ---
@@ -34,15 +34,15 @@ published: true
 
 ### CORE
 
-- SORA ACTIVE CORE
-- SORA FACE EXECUTION LOCK
-- SORA FACE DNA LOCK
-- SORA BODY CORE
-- SORA HAIR PHYSICS SYSTEM
+- rhea ACTIVE CORE
+- rhea FACE EXECUTION LOCK
+- rhea FACE DNA LOCK
+- rhea BODY CORE
+- rhea HAIR PHYSICS SYSTEM
 
 ### RENDER
 
-- SORA 3D ANI LOCK
+- rhea 3D ANI LOCK
 
 ### ENVIRONMENT
 
@@ -71,7 +71,7 @@ ASHROSE
 - 원형 테이블, 카페 의자, 화병, 커피잔이 프레임 밀도를 형성
 - 따뜻한 아이보리 톤과 부드러운 실내 깊이감 유지
 - 붐비지 않는 정적인 실내 분위기
-- Sora를 돋보이게 하는 restrained cinematic indoor mood 중심
+- rhea를 돋보이게 하는 restrained cinematic indoor mood 중심
 
 ---
 
@@ -92,12 +92,12 @@ ASHROSE
 
 ### 목적
 
-- 카페 창가 분위기와 함께 Sora의 상반신 인상을 안정적으로 소개하는 오프닝 컷
+- 카페 창가 분위기와 함께 rhea의 상반신 인상을 안정적으로 소개하는 오프닝 컷
 - 얼굴과 의상 상부 디테일을 동시에 보여주는 기본 소개 컷
 
 ### 이미지
 
-![Shot 01](assets/rhea/sora_european_cafe_black_heart_01_01.jpg)
+![Shot 01](assets/rhea/rhea_european_cafe_black_heart_01_01.jpg)
 
 ### 사용 커맨드
 
@@ -106,7 +106,7 @@ ASHROSE
 [medium shot by the cafe window]
 [quiet European cafe lounge]
 [soft window light on face and shoulders]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [upper body clearly visible]
 [one arm resting naturally near the table]
 [soft off-lens gaze]
@@ -125,7 +125,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 02](assets/rhea/sora_european_cafe_black_heart_01_02.jpg)
+![Shot 02](assets/rhea/rhea_european_cafe_black_heart_01_02.jpg)
 
 ### 사용 커맨드
 
@@ -134,10 +134,10 @@ ASHROSE
 [editorial seated shot beside a tall cafe window]
 [quiet European cafe lounge]
 [window-side table composition]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [softly flared skirt partially visible]
 [cafe cup and flower details in the frame]
-[Sora looking gently outside the window]
+[rhea looking gently outside the window]
 [calm reflective expression]
 [natural seated posture]
 ```
@@ -153,7 +153,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 03](assets/rhea/sora_european_cafe_black_heart_01_03.jpg)
+![Shot 03](assets/rhea/rhea_european_cafe_black_heart_01_03.jpg)
 
 ### 사용 커맨드
 
@@ -162,7 +162,7 @@ ASHROSE
 [three-quarter seated shot at a small round cafe table]
 [quiet European cafe lounge]
 [soft window light and warm interior depth]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [mini dress silhouette visible]
 [one arm resting lightly near the table]
 [soft off-lens gaze]
@@ -181,7 +181,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 04](assets/rhea/sora_european_cafe_black_heart_01_04.jpg)
+![Shot 04](assets/rhea/rhea_european_cafe_black_heart_01_04.jpg)
 
 ### 사용 커맨드
 
@@ -205,12 +205,12 @@ ASHROSE
 
 ### 목적
 
-- Sora의 얼굴 동일성, 눈의 분위기, 부드러운 표정 안정성을 강조하는 클로즈업 컷
+- rhea의 얼굴 동일성, 눈의 분위기, 부드러운 표정 안정성을 강조하는 클로즈업 컷
 - 블로그 본문 중간 포인트 이미지 및 Instagram 단독 활용에 적합
 
 ### 이미지
 
-![Shot 05](assets/rhea/sora_european_cafe_black_heart_01_05.jpg)
+![Shot 05](assets/rhea/rhea_european_cafe_black_heart_01_05.jpg)
 
 ### 사용 커맨드
 
@@ -219,7 +219,7 @@ ASHROSE
 [intimate face close-up]
 [quiet European cafe lounge background softly blurred]
 [soft warm window light]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [face fills most of the frame]
 [eyes softly focused near the lens]
 [gentle but not smiling expression]
@@ -239,7 +239,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 06](assets/rhea/sora_european_cafe_black_heart_01_06.jpg)
+![Shot 06](assets/rhea/rhea_european_cafe_black_heart_01_06.jpg)
 
 ### 사용 커맨드
 
@@ -248,7 +248,7 @@ ASHROSE
 [full body shot beside the cafe window]
 [quiet European cafe lounge]
 [soft window light and warm interior depth]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [full dress silhouette clearly visible]
 [black ankle-strap heels visible]
 [small shoulder bag visible]
@@ -268,7 +268,7 @@ ASHROSE
 
 ### 이미지
 
-![Shot 07](assets/rhea/sora_european_cafe_black_heart_01_07.jpg)
+![Shot 07](assets/rhea/rhea_european_cafe_black_heart_01_07.jpg)
 
 ### 사용 커맨드
 
@@ -277,7 +277,7 @@ ASHROSE
 [medium shot seated at a small round cafe table]
 [quiet European cafe lounge]
 [soft warm window light]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [upper body and skirt visible]
 [one hand resting naturally on the table]
 [other hand relaxed on her lap]

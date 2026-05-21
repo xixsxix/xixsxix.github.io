@@ -1,5 +1,5 @@
 ---
-title: Sora Sunlit Boutique Street Orange Denim 01
+title: rhea Sunlit Boutique Street Orange Denim 01
 date: 2026-05-17 16:00:00 +0900
 environment: ENV_SUNLIT_BOUTIQUE_STREET
 outfit: OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
@@ -10,15 +10,15 @@ shot_count: 7
 categories:
   - RHEAprompt
 tags:
-  - sora-post
+  - rhea-post
   - boutique-street
   - orange-denim
   - runway-editorial
   - vertical-still-set
 image:
-  path: /assets/sora/sora_orange_denim_street_01_cover.jpg
-  alt: Sora Sunlit Boutique Street Orange Denim 01
-permalink: /sora/orange-denim-street-01/
+  path: /assets/rhea/rhea_orange_denim_street_01_cover.jpg
+  alt: rhea Sunlit Boutique Street Orange Denim 01
+permalink: /rhea/orange-denim-street-01/
 hide_image: false
 pin: false
 published: true
@@ -28,8 +28,8 @@ published: true
 
 ## 01. 촬영 개요
 
-- 캐릭터: SORA
-- 촬영 ID: SHOOT_SORA_SUNLIT_BOUTIQUE_STREET_ORANGE_DENIM_01
+- 캐릭터: rhea
+- 촬영 ID: SHOOT_rhea_SUNLIT_BOUTIQUE_STREET_ORANGE_DENIM_01
 - 환경: ENV_SUNLIT_BOUTIQUE_STREET
 - 의상: OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 - 조명: IVORY
@@ -44,14 +44,14 @@ published: true
 
 ### CORE
 
-- SORA ACTIVE CORE
-- SORA FACE DNA LOCK
-- SORA BODY STANDARD
-- SORA HAIR STYLE BASELINE
+- rhea ACTIVE CORE
+- rhea FACE DNA LOCK
+- rhea BODY STANDARD
+- rhea HAIR STYLE BASELINE
 
 ### RENDER
 
-- SORA 3D ANI LOCK
+- rhea 3D ANI LOCK
 
 ### ENVIRONMENT
 
@@ -81,7 +81,7 @@ ENV_SUNLIT_BOUTIQUE_STREET
 - 따뜻한 석재 보도와 정돈된 쇼윈도 구조
 - 부드러운 디스플레이 윈도우 반사광
 - 도시형 화분과 절제된 거리 디테일
-- 과밀한 쇼핑가가 아닌 Sora 중심의 조용한 패션 스트리트
+- 과밀한 쇼핑가가 아닌 rhea 중심의 조용한 패션 스트리트
 - 캐주얼하지만 편집 화보처럼 정제된 도시 분위기
 
 ---
@@ -109,20 +109,20 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 목적
 
-- 부티크 거리 환경과 Sora의 전신 실루엣을 함께 확인한다.
+- 부티크 거리 환경과 rhea의 전신 실루엣을 함께 확인한다.
 - 오렌지 탑, 블랙 플라워 아플리케, 데님 팬츠의 전체 조합을 검증한다.
 - 블로그 포스트의 첫 장면으로 사용할 수 있는 기본 소개 컷을 만든다.
 
 ### 이미지
 
-![Shot 01](assets/rhea/sora_orange_denim_street_01_01.jpg)
+![Shot 01](assets/rhea/rhea_orange_denim_street_01_01.jpg)
 
 ### 사용 커맨드
 
 ```markdown
 [9:16 vertical frame]
 [full body shot]
-[Sora standing naturally on a quiet sunlit boutique street]
+[rhea standing naturally on a quiet sunlit boutique street]
 [warm stone pavement and small fashion storefront visible]
 [soft display window reflection in the background]
 [wearing OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM]
@@ -150,7 +150,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 02](assets/rhea/sora_orange_denim_street_01_02.jpg)
+![Shot 02](assets/rhea/rhea_orange_denim_street_01_02.jpg)
 
 ### 사용 커맨드
 
@@ -160,7 +160,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 [subtle asymmetrical weight balance]
 [one foot slightly forward]
 [quiet boutique street corridor]
-[storefront vertical lines behind Sora]
+[storefront vertical lines behind rhea]
 [vivid orange ribbed top readable]
 [deep-V neckline preserved]
 [black floral waist applique clearly placed]
@@ -185,7 +185,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 03](assets/rhea/sora_orange_denim_street_01_03.jpg)
+![Shot 03](assets/rhea/rhea_orange_denim_street_01_03.jpg)
 
 ### 사용 커맨드
 
@@ -193,7 +193,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 [9:16 vertical frame]
 [waist-up shot]
 [slight upper-body angle]
-[quiet sunlit boutique storefront behind Sora]
+[quiet sunlit boutique storefront behind rhea]
 [vivid orange ribbed knit texture clearly visible]
 [sharp deep-V neckline preserved]
 [structured short sleeve silhouette visible]
@@ -218,14 +218,14 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 04](assets/rhea/sora_orange_denim_street_01_04.jpg)
+![Shot 04](assets/rhea/rhea_orange_denim_street_01_04.jpg)
 
 ### 사용 커맨드
 
 ```markdown
 [9:16 vertical frame]
 [three-quarter body shot]
-[Sora standing near a boutique display window]
+[rhea standing near a boutique display window]
 [soft window reflection behind her]
 [warm stone pavement visible]
 [vivid orange deep-V ribbed top visible]
@@ -251,7 +251,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 05](assets/rhea/sora_orange_denim_street_01_05.jpg)
+![Shot 05](assets/rhea/rhea_orange_denim_street_01_05.jpg)
 
 ### 사용 커맨드
 
@@ -280,13 +280,13 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 목적
 
-- 이번 환경과 조명 아래에서 Sora의 얼굴 정체성이 유지되는지 확인한다.
+- 이번 환경과 조명 아래에서 rhea의 얼굴 정체성이 유지되는지 확인한다.
 - 오렌지 상의의 따뜻한 색감이 얼굴을 과하게 물들이지 않는지 검증한다.
 - 대표 이미지 또는 썸네일 후보로 사용할 수 있는 컷을 확보한다.
 
 ### 이미지
 
-![Shot 06](assets/rhea/sora_orange_denim_street_01_06.jpg)
+![Shot 06](assets/rhea/rhea_orange_denim_street_01_06.jpg)
 
 ### 사용 커맨드
 
@@ -319,7 +319,7 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 ### 이미지
 
-![Shot 07](assets/rhea/sora_orange_denim_street_01_07.jpg)
+![Shot 07](assets/rhea/rhea_orange_denim_street_01_07.jpg)
 
 ### 사용 커맨드
 
@@ -355,9 +355,9 @@ OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
 
 오렌지 리브드 딥브이 탑은 따뜻한 부티크 거리 조명에서 선명하게 살아났고, 블랙 플라워 아플리케는 의상의 중심 포인트로 명확하게 읽힌다. 라이트 워시 데님 팬츠와 블랙 오픈토 힐 샌들은 캐주얼함과 런웨이 에디토리얼 무드를 동시에 유지한다.
 
-ENV_SUNLIT_BOUTIQUE_STREET는 이번 의상과 잘 맞는다. 환경이 과하게 튀지 않고, 쇼윈도 반사와 석재 보도, 조용한 거리 구조가 Sora 중심의 세로 프레임을 안정적으로 받쳐준다.
+ENV_SUNLIT_BOUTIQUE_STREET는 이번 의상과 잘 맞는다. 환경이 과하게 튀지 않고, 쇼윈도 반사와 석재 보도, 조용한 거리 구조가 rhea 중심의 세로 프레임을 안정적으로 받쳐준다.
 
-다만 전체 결과는 `3D ANI LOCK`의 캐릭터 감각보다는 고품질 실사 패션 화보 쪽으로 조금 더 기울었다. 이미지 자체의 완성도는 높지만, 다음 촬영에서는 Sora가 실사 모델로 완전히 흘러가지 않도록 3D 캐릭터 존재감을 보강하는 커맨드를 추가하는 것이 좋다.
+다만 전체 결과는 `3D ANI LOCK`의 캐릭터 감각보다는 고품질 실사 패션 화보 쪽으로 조금 더 기울었다. 이미지 자체의 완성도는 높지만, 다음 촬영에서는 rhea가 실사 모델로 완전히 흘러가지 않도록 3D 캐릭터 존재감을 보강하는 커맨드를 추가하는 것이 좋다.
 
 ---
 
@@ -405,13 +405,13 @@ ENV_SUNLIT_BOUTIQUE_STREET는 이번 의상과 잘 맞는다. 환경이 과하�
 
 ## 다음 촬영 보정점
 
-- Sora가 실사 모델로 과하게 흐르지 않도록 다음 커맨드에 3D 존재감 보정 문구를 추가한다.
+- rhea가 실사 모델로 과하게 흐르지 않도록 다음 커맨드에 3D 존재감 보정 문구를 추가한다.
 
 ```markdown
 [realistic 3D character model presence]
 [stylized 3D realism]
 [not photoreal fashion model]
-[same-person Sora identity preserved]
+[same-person rhea identity preserved]
 ```
 
 - 워킹샷에는 움직임을 더 명확히 넣는다.
@@ -426,8 +426,8 @@ ENV_SUNLIT_BOUTIQUE_STREET는 이번 의상과 잘 맞는다. 환경이 과하�
 - 얼굴 클로즈업에서는 FACE DNA 고정성을 더 우선한다.
 
 ```markdown
-[same-person Sora face preserved]
-[stable Sora FACE DNA]
+[same-person rhea face preserved]
+[stable rhea FACE DNA]
 [large cool-toned introspective eyes]
 [restrained narrow chin]
 [soft elongated oval face]
@@ -446,12 +446,12 @@ ENV_SUNLIT_BOUTIQUE_STREET는 이번 의상과 잘 맞는다. 환경이 과하�
 - 얼굴이 가장 강하게 보인다.
 - 썸네일로 사용하기 좋다.
 - 오렌지 탑이 하단에 살짝 보이면서 의상 정체성도 전달된다.
-- 배경이 부드럽게 흐려져 Sora 중심성이 좋다.
+- 배경이 부드럽게 흐려져 rhea 중심성이 좋다.
 
 대표 이미지 경로:
 
 ```markdown
-/assets/sora/sora_orange_denim_street_01_cover.jpg
+/assets/rhea/rhea_orange_denim_street_01_cover.jpg
 ```
 
 ---
@@ -517,7 +517,7 @@ Shot 02는 전신 보조 컷으로 중간 삽입 가능하다.
 
 의상은 캐주얼하지만 단순 데일리룩으로 떨어지지 않고, 블랙 플라워 아플리케 덕분에 충분한 시각적 중심을 만든다. ENV_SUNLIT_BOUTIQUE_STREET는 이 의상의 선명한 색상과 런웨이 캐주얼 무드를 안정적으로 받아준다.
 
-Shot 06은 커버 이미지로 사용할 수 있으나, Sora 얼굴 캐논 고정용으로 사용하기보다는 이번 촬영 세트의 대표 컷으로 보는 것이 좋다. 얼굴 캐논 검증은 별도의 face_canon_set에서 진행하는 편이 안정적이다.
+Shot 06은 커버 이미지로 사용할 수 있으나, rhea 얼굴 캐논 고정용으로 사용하기보다는 이번 촬영 세트의 대표 컷으로 보는 것이 좋다. 얼굴 캐논 검증은 별도의 face_canon_set에서 진행하는 편이 안정적이다.
 
 이번 세트는 폐기 컷 없이 블로그 포스트로 구성할 수 있다.
 
@@ -601,5 +601,5 @@ Shot 07
 # Visual EXIF Line
 
 ```markdown
-SORA STUDIO · Sunlit Boutique Street · Orange Ribbed Flower Top Denim · Ivory · 9:16 · 2026
+rhea STUDIO · Sunlit Boutique Street · Orange Ribbed Flower Top Denim · Ivory · 9:16 · 2026
 ```

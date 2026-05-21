@@ -1,27 +1,27 @@
 ---
-title: Sora European Cafe Black Heart Ruffle Dress 01
+title: rhea European Cafe Black Heart Ruffle Dress 01
 date: 2026-05-17 16:00:00 +0900
 categories:
   - RHEAprompt
 tags:
-  - sora_post
+  - rhea_post
   - european_cafe
   - black_heart_ruffle_dress
 image:
-  path: /assets/sora/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_HORIZONTAL_01.jpg
-  alt: Sora European Cafe Black Heart Ruffle Dress 01
+  path: /assets/rhea/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_HORIZONTAL_01.jpg
+  alt: rhea European Cafe Black Heart Ruffle Dress 01
 permalink: /cafe_ruffledress01/
 hide_image: false
 pin: false
 published: true
 ---
 
-# Sora European Cafe Black Heart Ruffle Dress 01
+# rhea European Cafe Black Heart Ruffle Dress 01
 
 ## 01. 촬영 개요
 
-- 캐릭터: SORA
-- 촬영 ID: SHOOT_SORA_EUROPEAN_CAFE_BLACK_HEART_RUFFLE_DRESS_01
+- 캐릭터: rhea
+- 촬영 ID: SHOOT_rhea_EUROPEAN_CAFE_BLACK_HEART_RUFFLE_DRESS_01
 - 환경: ENV_EUROPEAN_CAFE_LOUNGE
 - 의상: OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 - 조명: IVORY
@@ -36,10 +36,10 @@ published: true
 
 ### CORE
 
-- SORA ACTIVE CORE
-- SORA FACE DNA LOCK
-- SORA BODY STANDARD
-- SORA HAIR STYLE BASELINE
+- rhea ACTIVE CORE
+- rhea FACE DNA LOCK
+- rhea BODY STANDARD
+- rhea HAIR STYLE BASELINE
 
 ### ENVIRONMENT
 
@@ -97,7 +97,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ### 목적
 
-- 유럽풍 카페 라운지의 전체 분위기와 Sora의 전신 실루엣을 함께 확인한다.
+- 유럽풍 카페 라운지의 전체 분위기와 rhea의 전신 실루엣을 함께 확인한다.
 - 의상과 환경의 첫 조합 인상을 검증한다.
 - 블로그 포스트의 메인 흐름을 여는 컷으로 사용한다.
 
@@ -111,7 +111,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 [9:16 vertical frame]
 [full body shot]
 [standing naturally inside a quiet European cafe lounge]
-[environment visible around Sora]
+[environment visible around rhea]
 [black heart ruffle bow mini dress clearly visible]
 [soft ivory indoor light]
 [soft off-lens gaze]
@@ -215,7 +215,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ### 목적
 
-- 환경 구조물과 Sora의 자연스러운 상호작용을 확인한다.
+- 환경 구조물과 rhea의 자연스러운 상호작용을 확인한다.
 - 포즈가 과장되지 않고 조용한 장면성을 유지하는지 검증한다.
 - 전신샷과 착석샷 사이의 분위기 변주 컷으로 사용한다.
 
@@ -245,7 +245,7 @@ OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS
 
 ### 목적
 
-- Sora의 얼굴 정체성과 감정 톤을 확인한다.
+- rhea의 얼굴 정체성과 감정 톤을 확인한다.
 - 카페 조명 아래에서 얼굴 캐논 방향성이 유지되는지 검증한다.
 - 블로그 대표 이미지 또는 썸네일 후보로 사용할 수 있는지 판단한다.
 

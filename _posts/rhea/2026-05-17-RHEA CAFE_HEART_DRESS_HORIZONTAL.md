@@ -10,14 +10,14 @@ shot_count: 6
 categories:
   - RHEAprompt
 tags:
-  - sora-post
+  - rhea-post
   - horizontal-scene-set
   - european-cafe
   - black-heart-ruffle-dress
 image:
-  path: /assets/sora/european_cafe_black_heart_dress_horizontal_cover.jpg
-  alt: Sora in a quiet European cafe wearing a black heart ruffle bow mini dress
-permalink: /sora/cafe-heart-dress-horizontal/
+  path: /assets/rhea/european_cafe_black_heart_dress_horizontal_cover.jpg
+  alt: rhea in a quiet European cafe wearing a black heart ruffle bow mini dress
+permalink: /rhea/cafe-heart-dress-horizontal/
 hide_image: false
 pin: false
 published: true
@@ -27,8 +27,8 @@ published: true
 
 ## 01. 촬영 개요
 
-- 캐릭터: Sora
-- 촬영 ID: `SORA_EUROPEAN_CAFE_BLACK_HEART_DRESS_HORIZONTAL_01`
+- 캐릭터: rhea
+- 촬영 ID: `rhea_EUROPEAN_CAFE_BLACK_HEART_DRESS_HORIZONTAL_01`
 - 환경: `ENV_EUROPEAN_CAFE_LOUNGE`
 - 의상: `OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS`
 - 조명: `ASHROSE`
@@ -36,7 +36,7 @@ published: true
 - 촬영 타입: `horizontal_scene_set`
 - 총 샷 수: 6
 - 촬영 목적:
-  - 유럽풍 카페 라운지 환경에서 Sora의 로맨틱한 블랙 미니드레스 의상을 가로형 영상 컷으로 검증한다.
+  - 유럽풍 카페 라운지 환경에서 rhea의 로맨틱한 블랙 미니드레스 의상을 가로형 영상 컷으로 검증한다.
   - 블로그 포스트, YouTube 영상, 썸네일, Instagram 이미지로 재사용 가능한 컷 구성을 확보한다.
   - 의상 디테일, 얼굴 클로즈업, 착석 장면, 전신성 장면, 환경 소개 컷을 한 세트로 구성한다.
 
@@ -46,15 +46,15 @@ published: true
 
 ### CORE
 
-- `SORA ACTIVE CORE`
-- `SORA FACE DNA LOCK`
-- `SORA BODY STANDARD 01`
+- `rhea ACTIVE CORE`
+- `rhea FACE DNA LOCK`
+- `rhea BODY STANDARD 01`
 - `HAIR_STYLE_OBSIDIAN_STRAIGHT_BASELINE`
-- `SORA HAIR PHYSICS SYSTEM`
+- `rhea HAIR PHYSICS SYSTEM`
 
 ### RENDER
 
-- `SORA 3D ANI LOCK`
+- `rhea 3D ANI LOCK`
 
 ### ENVIRONMENT
 
@@ -82,7 +82,7 @@ ASHROSE
 - 큰 창가, 작은 원형 카페 테이블, 의자, 꽃 장식, 부드러운 실내 벽면 장식이 중심 구조다.
 - 공간은 화려한 호텔이나 궁전이 아니라, 로맨틱하지만 절제된 카페 실내 분위기를 유지한다.
 - 창가 조명과 실내 깊이를 활용해 16:9 가로 프레임에서도 빈 공간 없이 장면 밀도를 만든다.
-- 전경에는 꽃, 테이블, 컵, 창틀을 배치하고, 중경에는 Sora, 후경에는 카페 인테리어와 의자, 벽면 장식을 둔다.
+- 전경에는 꽃, 테이블, 컵, 창틀을 배치하고, 중경에는 rhea, 후경에는 카페 인테리어와 의자, 벽면 장식을 둔다.
 
 ---
 
@@ -117,7 +117,7 @@ ASHROSE
 [waist-up shot beside a cafe window]
 [quiet European cafe lounge]
 [soft window light from the side]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [large black chest bow clearly visible]
 [white off-shoulder ruffle neckline visible]
 [black heart pattern readable]
@@ -133,7 +133,7 @@ ASHROSE
 
 ### 목적
 
-- 정적인 의상 소개에서 벗어나, 실제 카페 장면 안에 Sora가 머무는 느낌을 만든다.
+- 정적인 의상 소개에서 벗어나, 실제 카페 장면 안에 rhea가 머무는 느낌을 만든다.
 - 착석 포즈를 통해 YouTube 영상 중간부의 호흡을 안정시킨다.
 - 테이블, 창가, 손 위치를 활용해 자연스러운 생활 장면을 확보한다.
 
@@ -148,7 +148,7 @@ ASHROSE
 [medium shot seated at a small round cafe table]
 [quiet European cafe lounge]
 [soft warm window light]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [upper body and skirt visible]
 [one hand resting naturally on the table]
 [other hand relaxed on her lap]
@@ -164,7 +164,7 @@ ASHROSE
 
 ### 목적
 
-- 의상의 전체 실루엣과 Sora의 바디 라인을 확인하는 컷.
+- 의상의 전체 실루엣과 rhea의 바디 라인을 확인하는 컷.
 - 미니드레스 길이, 스커트 볼륨, 힐, 숄더백까지 한 번에 보여준다.
 - 블로그 본문에서 의상 전체 구조 설명용으로 적합하다.
 
@@ -179,7 +179,7 @@ ASHROSE
 [three-quarter full body shot beside a tall cafe window]
 [quiet European cafe lounge]
 [soft window light and warm interior depth]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [mini dress silhouette clearly visible]
 [softly flared skirt visible]
 [black ankle-strap heels visible]
@@ -196,7 +196,7 @@ ASHROSE
 
 ### 목적
 
-- Sora의 얼굴 동일성과 감정 톤을 확인하는 핵심 컷.
+- rhea의 얼굴 동일성과 감정 톤을 확인하는 핵심 컷.
 - 썸네일, Instagram, YouTube 영상의 감정 포인트로 사용 가능하다.
 - 과한 미소 없이 다정하지만 절제된 시선을 유지한다.
 
@@ -211,7 +211,7 @@ ASHROSE
 [intimate face close-up]
 [quiet European cafe lounge background softly blurred]
 [soft warm window light]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [face fills most of the frame]
 [slight 15-degree face angle]
 [eyes softly focused near the lens]
@@ -272,11 +272,11 @@ ASHROSE
 [16:9 horizontal frame]
 [cinematic medium shot beside a cafe window]
 [quiet European cafe lounge]
-[Sora wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
+[rhea wearing OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS]
 [soft window light on face and shoulders]
 [European cafe interior depth behind her]
 [flowers and small cafe table in foreground]
-[Sora looking gently out the window]
+[rhea looking gently out the window]
 [calm reflective expression]
 [natural stillness]
 [restrained cinematic atmosphere]
@@ -327,7 +327,7 @@ ASHROSE
 - 가로형 프레임에서 카페 공간이 단순 배경이 아니라 장면으로 작동한다.
 - 창가 조명, 꽃, 테이블, 카페 의자가 영상 컷으로 이어질 때 자연스러운 리듬을 만든다.
 - `OUTFIT_BLACK_HEART_RUFFLE_BOW_MINI_DRESS`의 핵심 요소인 블랙 리본, 하트 패턴, 오프숄더 러플이 잘 드러난다.
-- Shot 04와 Shot 06은 Sora의 감정 톤과 캐릭터성을 보여주는 대표 컷으로 가치가 높다.
+- Shot 04와 Shot 06은 rhea의 감정 톤과 캐릭터성을 보여주는 대표 컷으로 가치가 높다.
 - Shot 05는 의상 아카이브와 블로그 설명에 반드시 필요한 실용 컷이다.
 
 ---
@@ -404,7 +404,7 @@ ASHROSE
 - Shot 06을 대표 이미지로 사용한다.
 - Shot 03으로 의상 전체 구조를 설명한다.
 - Shot 05로 리본, 러플, 하트 패턴을 설명한다.
-- Shot 04로 Sora의 감정 톤과 얼굴 분위기를 강조한다.
+- Shot 04로 rhea의 감정 톤과 얼굴 분위기를 강조한다.
 
 ## YouTube
 

@@ -1,5 +1,5 @@
 ---
-title: Sora Hotel Lounge Cashmere
+title: rhea Hotel Lounge Cashmere
 date: 2026-05-20
 environment: ENV_HOTEL_LOUNGE_ENTRANCE
 outfit: OUTFIT_MINIMAL_STRIPE_CASHMERE
@@ -10,11 +10,11 @@ shot_count: 7
 categories:
   - RHEAprompt
 tags:
-  - sora_post
+  - rhea_post
 image:
-  path: /assets/sora/sora_hotel_lounge_cashmere_01_cover.jpg
-  alt: Sora wearing a minimal stripe cashmere outfit at a luxury hotel lounge entrance
-permalink: /sora/hotel-lounge-cashmere-01/
+  path: /assets/rhea/rhea_hotel_lounge_cashmere_01_cover.jpg
+  alt: rhea wearing a minimal stripe cashmere outfit at a luxury hotel lounge entrance
+permalink: /rhea/hotel-lounge-cashmere-01/
 hide_image: false
 pin: false
 published: true
@@ -24,15 +24,15 @@ published: true
 
 ## 01. 촬영 개요
 
-- 캐릭터: Sora
-- 촬영 ID: `sora_hotel_lounge_cashmere_01`
+- 캐릭터: rhea
+- 촬영 ID: `rhea_hotel_lounge_cashmere_01`
 - 환경: `ENV_HOTEL_LOUNGE_ENTRANCE`
 - 의상: `OUTFIT_MINIMAL_STRIPE_CASHMERE`
 - 조명: `WARM_GOLDEN_LOUNGE_DIFFUSION`
 - 프레임: `9:16 vertical`
 - 촬영 타입: `vertical_still_set`
 - 총 샷 수: 7
-- 촬영 목적: 호텔 라운지 입구의 절제된 럭셔리 공간 안에서 미니멀 스트라이프 캐시미어 룩의 도시적이고 성숙한 외출복 분위기를 검증한다. 오프숄더 니트, 차콜 플리츠 미니스커트, 시어 스타킹, 블랙 힐, 선글라스, 리본, 레드 우븐 토트백의 조합이 Sora의 고요한 3D 캐릭터 정체성과 어울리는지 확인한다.
+- 촬영 목적: 호텔 라운지 입구의 절제된 럭셔리 공간 안에서 미니멀 스트라이프 캐시미어 룩의 도시적이고 성숙한 외출복 분위기를 검증한다. 오프숄더 니트, 차콜 플리츠 미니스커트, 시어 스타킹, 블랙 힐, 선글라스, 리본, 레드 우븐 토트백의 조합이 rhea의 고요한 3D 캐릭터 정체성과 어울리는지 확인한다.
 
 ---
 
@@ -40,14 +40,14 @@ published: true
 
 ### CORE
 
-- SORA ACTIVE CORE
-- SORA FACE DNA LOCK
-- SORA BODY STANDARD
-- SORA HAIR STYLE BASELINE
+- rhea ACTIVE CORE
+- rhea FACE DNA LOCK
+- rhea BODY STANDARD
+- rhea HAIR STYLE BASELINE
 
 ### RENDER
 
-- SORA 3D ANI LOCK
+- rhea 3D ANI LOCK
 
 ### ENVIRONMENT
 
@@ -83,7 +83,7 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 - 절제된 럭셔리 분위기
 - 공적 공간과 사적 공간 사이의 문턱감
 
-이번 촬영에서는 환경이 Sora보다 앞서지 않도록 배경은 부드럽게 눌렀고, 의상과 전신 실루엣이 읽히는 방향으로 사용했다.
+이번 촬영에서는 환경이 rhea보다 앞서지 않도록 배경은 부드럽게 눌렀고, 의상과 전신 실루엣이 읽히는 방향으로 사용했다.
 
 ---
 
@@ -116,14 +116,14 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 
 ### 이미지
 
-![Shot 01](assets/rhea/sora_hotel_lounge_cashmere_01.jpg)
+![Shot 01](assets/rhea/rhea_hotel_lounge_cashmere_01.jpg)
 
 ### 사용 커맨드
 
 ```markdown
 [9:16 vertical frame]
 [full body shot]
-[Sora standing naturally at a luxury hotel lounge entrance]
+[rhea standing naturally at a luxury hotel lounge entrance]
 [marble floor and warm lobby depth visible]
 [soft golden hotel lounge light]
 [wearing OUTFIT_MINIMAL_STRIPE_CASHMERE]
@@ -150,7 +150,7 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 
 ### 이미지
 
-![Shot 02](assets/rhea/sora_hotel_lounge_cashmere_02.jpg)
+![Shot 02](assets/rhea/rhea_hotel_lounge_cashmere_02.jpg)
 
 ### 사용 커맨드
 
@@ -158,7 +158,7 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 [9:16 vertical frame]
 [full body shot]
 [camera centered at chest height]
-[Sora standing near a luxury hotel lounge doorway]
+[rhea standing near a luxury hotel lounge doorway]
 [body facing front, shoulders level, pelvis level, torso upright]
 [both legs straight, both feet parallel and close, weight balanced evenly]
 [left hand holding the red woven tote bag beside left thigh]
@@ -182,14 +182,14 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 
 ### 이미지
 
-![Shot 03](assets/rhea/sora_hotel_lounge_cashmere_03.jpg)
+![Shot 03](assets/rhea/rhea_hotel_lounge_cashmere_03.jpg)
 
 ### 사용 커맨드
 
 ```markdown
 [9:16 vertical frame]
 [upper body outfit focus shot]
-[Sora standing in front of a softly blurred hotel lounge entrance]
+[rhea standing in front of a softly blurred hotel lounge entrance]
 [off-the-shoulder muted blue and white horizontal stripe cashmere knit sweater clearly visible]
 [soft relaxed neckline]
 [cashmere knit texture readable]
@@ -214,14 +214,14 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 
 ### 이미지
 
-![Shot 04](assets/rhea/sora_hotel_lounge_cashmere_04.jpg)
+![Shot 04](assets/rhea/rhea_hotel_lounge_cashmere_04.jpg)
 
 ### 사용 커맨드
 
 ```markdown
 [9:16 vertical frame]
 [cinematic editorial full-body shot]
-[Sora standing beside the entrance of a luxury hotel lounge]
+[rhea standing beside the entrance of a luxury hotel lounge]
 [softly glowing lobby interior behind her]
 [marble floor reflection kept subtle and realistic]
 [warm brass details and quiet lounge seating in background]
@@ -250,14 +250,14 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 
 ### 이미지
 
-![Shot 05](assets/rhea/sora_hotel_lounge_cashmere_05.jpg)
+![Shot 05](assets/rhea/rhea_hotel_lounge_cashmere_05.jpg)
 
 ### 사용 커맨드
 
 ```markdown
 [9:16 vertical frame]
 [natural walking shot]
-[Sora walking slowly through the hotel lounge entrance]
+[rhea walking slowly through the hotel lounge entrance]
 [gentle step forward]
 [red woven leather tote bag moving naturally with the body]
 [black patent stiletto heels visible]
@@ -278,21 +278,21 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 
 ### 목적
 
-- Sora의 얼굴 동일성을 확인하는 감성 클로즈업 컷이다.
+- rhea의 얼굴 동일성을 확인하는 감성 클로즈업 컷이다.
 - 선글라스와 리본 헤어보우가 있는 상태에서 얼굴 정체성이 유지되는지 확인한다.
 
 ### 이미지
 
-![Shot 06](assets/rhea/sora_hotel_lounge_cashmere_06.jpg)
+![Shot 06](assets/rhea/rhea_hotel_lounge_cashmere_06.jpg)
 
 ### 사용 커맨드
 
 ```markdown
 [9:16 vertical frame]
 [face close-up shot]
-[Sora near the hotel lounge entrance]
+[rhea near the hotel lounge entrance]
 [face fills most of the frame]
-[same-person Sora facial identity preserved]
+[same-person rhea facial identity preserved]
 [slim elongated oval face]
 [pale porcelain skin]
 [large cool-toned introspective eyes subtly visible behind gradient tinted cat-eye sunglasses]
@@ -317,7 +317,7 @@ WARM_GOLDEN_LOUNGE_DIFFUSION
 
 ### 이미지
 
-![Shot 07](assets/rhea/sora_hotel_lounge_cashmere_07.jpg)
+![Shot 07](assets/rhea/rhea_hotel_lounge_cashmere_07.jpg)
 
 ### 사용 커맨드
 
@@ -385,8 +385,8 @@ Shot 06은 얼굴 집중도와 감성 전달력이 가장 높다. 블로그 커�
 
 - 호텔 라운지 입구 환경과 미니멀 캐시미어 룩의 조합이 자연스럽다.
 - 레드 우븐 토트백이 전체 룩의 포인트 컬러로 잘 작동한다.
-- 오프숄더 니트와 선글라스, 리본의 조합이 Sora의 도시적이고 성숙한 이미지를 강화한다.
-- Shot 06 클로즈업은 Sora의 얼굴 중심 콘텐츠로 재사용 가치가 높다.
+- 오프숄더 니트와 선글라스, 리본의 조합이 rhea의 도시적이고 성숙한 이미지를 강화한다.
+- Shot 06 클로즈업은 rhea의 얼굴 중심 콘텐츠로 재사용 가치가 높다.
 - Shot 07은 의상 소재 설명용 컷으로 블로그 본문 활용성이 좋다.
 
 ---
@@ -415,7 +415,7 @@ Shot 06은 얼굴 집중도와 감성 전달력이 가장 높다. 블로그 커�
 ## Cover
 
 - Shot 06 — 얼굴 클로즈업
-- 추천 파일명: `/assets/sora/sora_hotel_lounge_cashmere_01_cover.jpg`
+- 추천 파일명: `/assets/rhea/rhea_hotel_lounge_cashmere_01_cover.jpg`
 
 ## Main Body
 
@@ -462,7 +462,7 @@ Shot 06은 얼굴 집중도와 감성 전달력이 가장 높다. 블로그 커�
 [camera centered at chest height]
 ```
 
-앞으로 Sora 전신샷에서는 감성어보다 신체 배치어를 우선한다.
+앞으로 rhea 전신샷에서는 감성어보다 신체 배치어를 우선한다.
 
 ---
 
