@@ -1,7 +1,7 @@
 ---
 title: 황현필의 진보를 위한 역사 (진짜 진보의 지침서 & 가짜 극우의 계몽서) - 황현필
 book_author: 황현필
-category: Reading Log
+category: readinglog
 tags:
   - book
   - 황현필

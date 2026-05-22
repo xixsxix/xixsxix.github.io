@@ -1,7 +1,7 @@
 ---
 title: 조국의 시간 (아픔과 진실 말하지 못한 생각) - 조국
 book_author: 조국
-category: Reading Log
+category: readinglog
 tags:
   - book
   - 조국
