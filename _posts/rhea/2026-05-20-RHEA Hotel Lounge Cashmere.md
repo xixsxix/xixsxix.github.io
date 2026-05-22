@@ -9,9 +9,8 @@ shot_count: 7
 categories:
   - RHEAprompt
 tags:
-  - rhea_post
+  - studio
 image: /assets/rhea/sora_hotel_lounge_cashmere_01_cover.jpg
-
 permalink: /hotel-lounge-cashmere-01/
 hide_image: false
 pin: false

@@ -1,22 +1,11 @@
 ---
 title: rhea Sunlit Boutique Street Orange Denim 01
 date: 2026-05-17 16:00:00 +0900
-environment: ENV_SUNLIT_BOUTIQUE_STREET
-outfit: OUTFIT_ORANGE_RIBBED_FLOWER_TOP_DENIM
-light_state: IVORY
-frame: 9:16 vertical
-shoot_type: vertical_still_set
-shot_count: 7
 categories:
   - RHEAprompt
 tags:
-  - rhea-post
-  - boutique-street
-  - orange-denim
-  - runway-editorial
-  - vertical-still-set
+  - studio
 image: /assets/rhea/sora_orange_denim_street_01_cover.jpg
-
 permalink: /orange-denim-street-01/
 hide_image: false
 pin: false

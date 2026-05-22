@@ -1,6 +1,6 @@
 ---
 type: post
-title: RHEA Office Chic Minimal Shoot
+title: RHEA Office Chic Minimal
 date: '"2026-05-22 17:27:15 +0900"'
 categories:
   - SORAprompt
@@ -13,7 +13,7 @@ pin: false
 published: true
 ---
 
-# RHEA Office Chic Minimal Shoot
+# RHEA Office Chic Minimal
 
 ## 01 촬영 개요
 
