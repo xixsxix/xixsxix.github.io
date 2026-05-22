@@ -15,8 +15,6 @@ published: true
 
 # 리아 블랙 드레이프 드레스 촬영 — 누아르 스위트의 고요한 밤
 
-![Cover](assets/rhea/rhea_black_draped_noir_suite_04.jpg)
-
 ## 01 촬영 개요
 
 이번 촬영은 이전에 진행했던 **화이트 드레이프 리조트 드레스 촬영**의 연장선에서 시작되었다.
