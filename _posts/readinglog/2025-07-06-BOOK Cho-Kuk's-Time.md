@@ -1,11 +1,9 @@
 ---
 title: 조국의 시간 (아픔과 진실 말하지 못한 생각) - 조국
 book_author: 조국
-category: readinglog
+category: Reading LOG
 tags:
-  - book
-  - 조국
-  - 조국의시간
+  - Reading_LOG
 isbn: 9788935668663
 image: assets/cover/Cho-Kuk's-Time.jpg
 created: 2025-07-06 16:29:41

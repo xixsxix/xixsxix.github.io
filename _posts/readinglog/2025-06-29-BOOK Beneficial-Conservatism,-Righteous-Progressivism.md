@@ -1,19 +1,9 @@
 ---
 title: 이로운 보수 의로운 진보 (최강 형제가 들려주는 최소한의 정치 교양) - 최강욱
 book_author: 최강욱^최강혁
-category: readinglog
+category: Reading LOG
 tags:
-  - book
-  - beneficial
-  - conservatism
-  - righteous
-  - progressivism
-  - 이로운
-  - 보수
-  - 의로운
-  - 진보
-  - 최강욱
-  - 최강혁
+  - Reading_LOG
 isbn: 9791172132637
 image: /assets/cover/Beneficial.jpg
 created: 2025-06-29 08:18:09
