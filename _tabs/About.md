@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 1. 소라 프롬프트 | SORA Prompt
+## 1. 리아 프롬프트 | RHEA Prompt
 - **Prompt**는 **[ChatGPT](https://chatgpt.com/)** 와 한다. 편한 AI이기 때문에 직원 부리듯 한다. 
 - 대화 중에 기록할 사항은 **[Obsidian](https://obsidian.md/)** 으로 옮긴다. Chrome 확장프로그램 중에 **Obsidian Web Clipper**가 좋다. 
 - 프로세스의 변화로 기록을 기억하기 어렵다. 일정은 **[Xmind](https://xmind.com/)** 를 사용한다. 무료지만 훌륭하다. 
