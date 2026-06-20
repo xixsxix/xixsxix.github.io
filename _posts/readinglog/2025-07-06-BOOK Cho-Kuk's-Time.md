@@ -5,7 +5,7 @@ category: Reading LOG
 tags:
   - Reading_LOG
 isbn: 9788935668663
-image: assets/cover/Cho-Kuk's-Time.jpg
+image: /assets/cover/Cho-Kuk's-Time.jpg
 created: 2025-07-06 16:29:41
 permalink: /Chokuk-Time/
 hide_image: false

@@ -147,7 +147,7 @@ published: true
 
 ### Shot 01 — 스위트 라운지의 첫 장면
 
-![Shot 01](assets/rhea/rhea_black_draped_noir_suite_01.jpg)
+![Shot 01](/assets/rhea/rhea_black_draped_noir_suite_01.jpg)
 
 첫 컷은 블랙 드레스와 새로운 공간을 동시에 보여주는 도입 컷이다.
 
@@ -162,7 +162,7 @@ published: true
 
 ### Shot 02 — 블랙 드레이프 상체 컷
 
-![Shot 02](assets/rhea/rhea_black_draped_noir_suite_02.jpg)
+![Shot 02](/assets/rhea/rhea_black_draped_noir_suite_02.jpg)
 
 두 번째 컷은 얼굴과 상체 드레이프 구조를 중심으로 잡은 컷이다.
 
@@ -177,7 +177,7 @@ published: true
 
 ### Shot 03 — 세로 전신 라운지 컷
 
-![Shot 03](assets/rhea/rhea_black_draped_noir_suite_03.jpg)
+![Shot 03](/assets/rhea/rhea_black_draped_noir_suite_03.jpg)
 
 세 번째 컷은 세로 프레임의 전신 컷이다.
 
@@ -192,7 +192,7 @@ published: true
 
 ### Shot 04 — 바닥에 닿은 누아르 컷
 
-![Shot 04](assets/rhea/rhea_black_draped_noir_suite_04.jpg)
+![Shot 04](/assets/rhea/rhea_black_draped_noir_suite_04.jpg)
 
 이번 촬영에서 가장 중요한 컷이다.
 
@@ -217,7 +217,7 @@ published: true
 
 ### Shot 05 — 창가 반사 포트레이트
 
-![Shot 05](assets/rhea/rhea_black_draped_noir_suite_05.jpg)
+![Shot 05](/assets/rhea/rhea_black_draped_noir_suite_05.jpg)
 
 다섯 번째 컷은 얼굴과 유리 반사를 중심으로 한 포트레이트다.
 
@@ -235,7 +235,7 @@ published: true
 
 ### Shot 06 — 썸네일 후보 컷
 
-![Shot 06](assets/rhea/rhea_black_draped_noir_suite_06.jpg)
+![Shot 06](/assets/rhea/rhea_black_draped_noir_suite_06.jpg)
 
 여섯 번째 컷은 썸네일 활용을 고려해서 구성했다.
 
@@ -250,7 +250,7 @@ published: true
 
 ### Shot 07 — 조용한 엔딩 컷
 
-![Shot 07](assets/rhea/rhea_black_draped_noir_suite_07.jpg)
+![Shot 07](/assets/rhea/rhea_black_draped_noir_suite_07.jpg)
 
 마지막 컷은 창을 바라보는 측면 착석 컷이다.
 
@@ -294,7 +294,7 @@ published: true
 
 **Shot 04 — Floor-contact Seated Cut**
 
-![Best Cut](assets/rhea/rhea_black_draped_noir_suite_04.jpg)
+![Best Cut](/assets/rhea/rhea_black_draped_noir_suite_04.jpg)
 
 이 컷은 이번 촬영의 메인으로 가장 적합하다.  
 블랙 드레스, 바닥에 흐르는 원단, 창가의 밤 분위기, 리아의 고요한 시선이 모두 들어 있다.
@@ -305,7 +305,7 @@ published: true
 
 **Shot 06 — Medium Close Thumbnail Cut**
 
-![Thumbnail Candidate](assets/rhea/rhea_black_draped_noir_suite_06.jpg)
+![Thumbnail Candidate](/assets/rhea/rhea_black_draped_noir_suite_06.jpg)
 
 얼굴 가독성, 의상 가독성, 텍스트 여백이 모두 좋다.  
 유튜브나 블로그 대표 이미지로 사용하기 적합하다.
@@ -314,7 +314,7 @@ published: true
 
 **Shot 05 — Reflection Portrait**
 
-![Mood Portrait](assets/rhea/rhea_black_draped_noir_suite_05.jpg)
+![Mood Portrait](/assets/rhea/rhea_black_draped_noir_suite_05.jpg)
 
 창가 반사와 리아의 눈빛이 잘 어울린다.  
 블랙 드레스 촬영의 감정선을 가장 섬세하게 보여주는 컷이다.
@@ -323,7 +323,7 @@ published: true
 
 **Shot 07 — Side Seated Ending Cut**
 
-![Ending Cut](assets/rhea/rhea_black_draped_noir_suite_07.jpg)
+![Ending Cut](/assets/rhea/rhea_black_draped_noir_suite_07.jpg)
 
 촬영을 조용하게 마무리하는 컷으로 좋다.  
 블루아워의 끝과 실내 램프광이 남기는 여운이 있다.

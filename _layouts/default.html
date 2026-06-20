@@ -82,20 +82,22 @@ layout: compress
 
     {% include_cached search-loader.html lang=lang %}
 
-    <!-- Plyr JS 추가 (body 닫기 전에 추가) -->
     <script src="https://cdn.jsdelivr.net/npm/plyr@3.7.2/dist/plyr.min.js"></script>
     <script>
-      document.addEventListener("DOMContentLoaded", () => {
-        const players = document.querySelectorAll(".plyr-audio");
-        players.forEach((player) => {
+      document.addEventListener('DOMContentLoaded', () => {
+        if (!window.Plyr) {
+          return;
+        }
+
+        document.querySelectorAll('.plyr-audio').forEach((player) => {
           new Plyr(player);
         });
-      });
-    </script>
-    <script>
-      document.addEventListener('DOMContentLoaded', () => {
-        // YouTube 플레이어 초기화
-        const players = Array.from(document.querySelectorAll('.plyr__video-embed')).map(embed => new Plyr(embed));
+
+        document.querySelectorAll('.plyr__video-embed').forEach((player) => {
+          new Plyr(player, {
+            controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'fullscreen']
+          });
+        });
       });
     </script>
 

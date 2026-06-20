@@ -230,7 +230,7 @@ bash /volume1/tasks/scripts/file_organizer.sh
 ---
 
 문제는 여기서 발생했다. **Synology DSM**에 접속하자 화면이 뭔가 이상했다. 패키지 센터에 들어가 보니 이런 오류가 발생했다. 
-![image](assets/linux/synology001.png)
+![image](/assets/linux/synology001.png)
 
 이건 무슨 개소리냔 말이다. **ChatGPT**에 이미지를 올리고 물어도 헛소리만 해댄다. 웹 검색에 능통한 **Perplexity**에게 물었다. 그리고 새로운 사실을 깨달았다.
 

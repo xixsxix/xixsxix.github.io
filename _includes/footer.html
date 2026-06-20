@@ -46,14 +46,4 @@
 
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
   </p>
-  <!-- _includes/footer-custom.html (또는 footer.html 내 script 영역에) -->
-  <script src="https://cdn.plyr.io/3.7.2/plyr.polyfilled.js"></script>
-  <script>
-    // 플러그인을 초기화하기 전에, 페이지의 DOM 요소가 모두 로드된 후에 실행되도록 하세요.
-    document.addEventListener('DOMContentLoaded', function () {
-      const players = Plyr.setup('.plyr__video-embed', {
-        controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'fullscreen']
-      });
-    });
-  </script>  
 </footer>
