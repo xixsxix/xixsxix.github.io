@@ -1,0 +1,17 @@
+<!-- https://cusdis.com/ -->
+{% assign cusdis = site.comments.cusdis %}
+{% if cusdis.app_id and cusdis.app_id != empty %}
+  {% assign cusdis_host = cusdis.host | default: 'https://cusdis.com' %}
+  <div
+    id="cusdis_thread"
+    data-host="{{ cusdis_host }}"
+    data-app-id="{{ cusdis.app_id }}"
+    data-page-id="{{ page.url | absolute_url }}"
+    data-page-url="{{ page.url | absolute_url }}"
+    data-page-title="{{ page.title | xml_escape }}"
+    data-lang="{{ cusdis.lang | default: site.lang | default: 'en' }}"
+  ></div>
+  <script async defer src="{{ cusdis_host }}/js/cusdis.es.js"></script>
+{% else %}
+  <!-- Cusdis comments are enabled but comments.cusdis.app_id is empty. -->
+{% endif %}
