@@ -2,16 +2,28 @@
 {% assign cusdis = site.comments.cusdis %}
 {% if cusdis.app_id and cusdis.app_id != empty %}
   {% assign cusdis_host = cusdis.host | default: 'https://cusdis.com' %}
-  <div
-    id="cusdis_thread"
-    data-host="{{ cusdis_host }}"
-    data-app-id="{{ cusdis.app_id }}"
-    data-page-id="{{ page.url | absolute_url }}"
-    data-page-url="{{ page.url | absolute_url }}"
-    data-page-title="{{ page.title | xml_escape }}"
-    data-lang="{{ cusdis.lang | default: site.lang | default: 'en' }}"
-  ></div>
-  <script async defer src="{{ cusdis_host }}/js/cusdis.es.js"></script>
+  {% assign cusdis_lang = cusdis.lang | default: site.lang | default: 'en' %}
+  <script>
+    (function () {
+      const cusdisThread = document.createElement('div');
+      cusdisThread.id = 'cusdis_thread';
+      cusdisThread.setAttribute('data-host', {{ cusdis_host | jsonify }});
+      cusdisThread.setAttribute('data-app-id', {{ cusdis.app_id | jsonify }});
+      cusdisThread.setAttribute('data-page-id', {{ page.url | absolute_url | jsonify }});
+      cusdisThread.setAttribute('data-page-url', {{ page.url | absolute_url | jsonify }});
+      cusdisThread.setAttribute('data-page-title', {{ page.title | jsonify }});
+      cusdisThread.setAttribute('data-lang', {{ cusdis_lang | jsonify }});
+
+      const footer = document.querySelector('footer');
+      footer.insertAdjacentElement('beforebegin', cusdisThread);
+
+      const cusdisScript = document.createElement('script');
+      cusdisScript.async = true;
+      cusdisScript.defer = true;
+      cusdisScript.src = {{ cusdis_host | append: '/js/cusdis.es.js' | jsonify }};
+      document.body.appendChild(cusdisScript);
+    })();
+  </script>
 {% else %}
   <!-- Cusdis comments are enabled but comments.cusdis.app_id is empty. -->
 {% endif %}
