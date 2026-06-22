@@ -6,8 +6,8 @@ categories:
 tags:
   - essay
 image:
-permalink: //
-hide_image: true
+permalink: /essay_20250715021755/
+hide_image: false
 pin: false
 ---
 
