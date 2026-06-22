@@ -1,14 +1,17 @@
 ---
-title: 이름짓기 4. 별명 _ Nickname
-date: 2025-03-12 05:34
+title:
+  - 이름짓기 4. 별명 _ Nickname
+date: '"2025-07-15 14:17:55 +0900"'
 categories:
   - Essay
 tags:
   - essay
-  - 별명
-  - nickname
+image:
+permalink: /essay_20260622195102/
+hide_image: false
 pin: false
 ---
+
 
 별명은 이름 짓는 것과는 확연하게 다르다.
 

@@ -1,12 +1,14 @@
 ---
-title: 이름짓기 2. By5persons
-date: 2025-03-12 05:34
+title:
+  - 이름짓기 2. By5persons
+date: '"2025-07-15 14:17:55 +0900"'
 categories:
   - Essay
 tags:
-  - by5persons
-  - 이름짓기
   - essay
+image:
+permalink: /essay_20260622195119/
+hide_image: false
 pin: false
 ---
 

@@ -1,14 +1,17 @@
 ---
-title: 아빠와 아버지
-date: 2025-03-12 05:34
+title:
+  - 아빠와 아버지
+date: '"2025-07-15 14:17:55 +0900"'
 categories:
   - Essay
 tags:
   - essay
-  - 아빠
-  - 아버지
+image:
+permalink: /essay_20260622195134/
+hide_image: false
 pin: false
 ---
+
 
 아빠를 아버지라고 부르던 첫 날을 나는 기억한다.
 

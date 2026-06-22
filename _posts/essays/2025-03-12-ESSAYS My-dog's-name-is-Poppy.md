@@ -1,14 +1,17 @@
 ---
-title: 나의 강아지 이름은 빠삐
-date: 2025-03-12 05:34
+title:
+  - 나의 강아지 이름은 빠삐
+date: '"2025-07-15 14:17:55 +0900"'
 categories:
   - Essay
 tags:
   - essay
-  - 나의강아지
-  - 빠삐
+image:
+permalink: /essay_20260622195153/
+hide_image: false
 pin: false
 ---
+
 
 가슴에 손수건을 달고 초등학교를 입학하던 조무래기 유년기 시절. 우리집 마당에는 한마리 개가 있었다.
 

@@ -3,7 +3,7 @@ type: post
 title: RHEA Office Chic Minimal
 date: '"2026-05-22 17:27:15 +0900"'
 categories:
-  - SORAprompt
+  - RHEAprompt
 tags:
   - studio
 image: /assets/rhea/rhea_office_chic_minimal_07.jpg

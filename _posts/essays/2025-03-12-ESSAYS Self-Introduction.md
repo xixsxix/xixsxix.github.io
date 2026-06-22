@@ -1,15 +1,16 @@
 ---
-title: 자기 소개
-date: 2025-03-12 05:34
+title:
+  - 자기 소개
+date: '"2025-07-15 14:17:55 +0900"'
 categories:
   - Essay
 tags:
   - essay
-  - 자기소개
-  - 오랄아키텍트
+image:
+permalink: /essay_20260622194945/
+hide_image: false
 pin: false
 ---
-
 
 > 일을 하다가 양이 너무 많으면 그냥 징징댔어요.
 
