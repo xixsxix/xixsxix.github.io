@@ -1,12 +1,12 @@
 ---
 title: 2025-03-02-Naming1,-My-first-name
-date: '"2025-07-15 14:17:55 +0900"'
+date: 2025-03-02T14:17:55
 categories:
   - Essay
 tags:
   - essay
 image:
-permalink: /essay_20250715021755/
+permalink: /essay_20250702141755/
 hide_image: false
 pin: false
 ---
