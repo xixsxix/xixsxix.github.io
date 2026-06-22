@@ -1,0 +1,5 @@
+# Production override: disable PWA and offline cache to prevent stale pages.
+pwa:
+  enabled: false
+  cache:
+    enabled: false
