@@ -1,5 +1,6 @@
 ---
-title: 2025-03-12-Naming3.-Naming
+title:
+  - 이름짓기 3. 작명 (作名)
 date: 2025-07-12T14:17:55
 categories:
   - Essay
@@ -10,8 +11,6 @@ permalink: /essay_20250712021755/
 hide_image: true
 pin: false
 ---
-
-# 이름이라는 첫 번째 선물
 
 나의 아이는 아버지가 돌아가시고 꼭 1년 후에 태어났다.
 

@@ -1,5 +1,6 @@
 ---
-title: 2025-03-02-Naming1,-My-first-name
+title:
+  - 이름짓기 1. 나의 첫 이름
 date: 2025-03-02T14:17:55
 categories:
   - Essay
@@ -10,8 +11,6 @@ permalink: /essay_20250702141755/
 hide_image: false
 pin: false
 ---
-
-# 이제 내 이름을 버리기로 했다
 
 스물세 살이었던가.  
 아마 그때쯤이었을 것이다.
