@@ -34,24 +34,18 @@ google:
     container_id: GTM-TK2DF726 # fill in your Google Tag Manager ID
 
 github:
-  username: xixsxix # change to your GitHub username
+  username:
 
 twitter:
-  username: xixsxix_j # change to your Twitter username
+  username:
 
 facebook:
-  username: xixsxix.j # change to your Facebook username
+  username: xixsxix.j
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jimmy
-  email: xixsxix.j@gmail.com # change to your email address
+  email: xixsxix.j@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/xixsxix_j # change to your Twitter homepage
-    - https://github.com/xixsxix # change to your GitHub homepage
-    # Uncomment below to add more social links
     - https://www.facebook.com/xixsxix.j
     - https://www.instagram.com/xixsxix.j
 
