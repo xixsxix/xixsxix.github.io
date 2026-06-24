@@ -2,7 +2,7 @@
 layout: page
 title: Anime Subs
 icon: fas fa-closed-captioning
-order: 6
+order: 4
 permalink: /anime-subtitles/
 ---
 
@@ -10,16 +10,14 @@ permalink: /anime-subtitles/
 
 사용자가 직접 선정한 애니 작품의 Anissia 자막 등록 상태를 확인하는 페이지입니다.
 
-마지막 업데이트: `{{ site.data.anissia_caption_status.last_updated_at }}`
+마지막 업데이트: `{{ site.data.anissia_caption_status.last_updated_at | replace: "T", " " | replace: "+09:00", "" }}`
 
 <div class="table-wrapper">
   <table>
     <thead>
       <tr>
         <th>작품</th>
-        <th>원제</th>
         <th>방영</th>
-        <th>장르</th>
         <th>최신 자막</th>
         <th>제작자</th>
         <th>등록 시간</th>
@@ -31,11 +29,9 @@ permalink: /anime-subtitles/
       <tr>
         <td>
           <strong>{{ item.display_name }}</strong><br>
-          <small>#{{ item.animeNo }}</small>
+          <small>{{ item.original_title }} · #{{ item.animeNo }}</small>
         </td>
-        <td>{{ item.original_title }}</td>
         <td>{{ item.broadcast_week }} {{ item.broadcast_time }}</td>
-        <td>{{ item.genres }}</td>
         <td>{{ item.latest_episode }}화</td>
         <td>{{ item.caption_author }}</td>
         <td>{{ item.latest_updDt | replace: "T", " " }}</td>
