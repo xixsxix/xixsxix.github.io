@@ -1,11 +1,10 @@
 ---
-
 layout: page
 title: Anime Subs
 icon: fas fa-closed-captioning
 order: 4
 permalink: /anime-subtitles/
-----------------------------
+---
 
 # 애니 자막 상태
 
