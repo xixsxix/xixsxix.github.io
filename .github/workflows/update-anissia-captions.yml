@@ -1,0 +1,53 @@
+name: Update Anissia Caption Status
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+    paths:
+      - "_data/anissia_watchlist.json"
+      - "_scripts/update_anissia_caption_status.py"
+      - ".github/workflows/update-anissia-captions.yml"
+
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-anissia-captions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update Anissia caption status
+        run: python _scripts/update_anissia_caption_status.py
+
+      - name: Check JSON validity
+        run: python -m json.tool _data/anissia_caption_status.json > /dev/null
+
+      - name: Commit updated caption status
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git diff --quiet _data/anissia_caption_status.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add _data/anissia_caption_status.json
+          git commit -m "Update Anissia caption status"
+          git push origin master

@@ -1,11 +1,12 @@
 {
-  "last_updated_at": "2026-06-25T00:00:00+09:00",
+  "last_updated_at": "2026-06-26 12:46:58",
+  "source": "Anissia API",
   "items": [
     {
       "animeNo": 3341,
       "display_name": "황천의 츠가이",
       "original_title": "黄泉のツガイ",
-      "status": "ON",
+      "status": "OFF",
       "broadcast_week": "토요일",
       "broadcast_time": "23:30",
       "genres": "판타지,액션",
@@ -89,9 +90,9 @@
       "endDate": "2026-06-27",
       "official_website": "https://www.yowayowasensei-anime.com/",
       "official_x": "https://x.com/yowayowa_anime",
-      "captionCount": 11,
-      "latest_episode": "12",
-      "latest_updDt": "2026-06-23T05:19:00",
+      "captionCount": 2,
+      "latest_episode": "11",
+      "latest_updDt": "2026-06-21T00:11:00",
       "caption_author": "별명따위",
       "caption_url": "https://bluewater91.blogspot.com/2026/06/11_0280625936.html",
       "subtitle_status": "subtitle_ready"
