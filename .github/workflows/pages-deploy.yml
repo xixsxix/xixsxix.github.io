@@ -13,13 +13,6 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-  # Run Pages build after Anissia caption status workflow completes successfully
-  workflow_run:
-    workflows:
-      - Update Anissia Caption Status
-    types:
-      - completed
-
 permissions:
   contents: read
   pages: write
