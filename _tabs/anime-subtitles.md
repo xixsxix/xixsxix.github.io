@@ -8,78 +8,16 @@ permalink: /anime-subtitles/
 
 # 애니 자막 상태
 
-사용자가 직접 선정한 애니 작품의 Anissia 자막 등록 상태를 확인하는 페이지입니다.
+애니 자막 상태판은 Synology NAS에서 관리합니다.
 
-마지막 업데이트: `{{ site.data.anissia_caption_status.last_updated_at | replace: "T", " " | replace: "+09:00", "" }}`
+NAS에서는 Anissia API를 기반으로 자막 등록 상태를 갱신하고, 필요한 경우 직접 갱신 버튼으로 최신 상태를 확인할 수 있습니다.
 
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>작품</th>
-        <th>방영</th>
-        <th>최신 자막</th>
-        <th>제작자</th>
-        <th>등록 시간</th>
-        <th>링크</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for item in site.data.anissia_caption_status.items %}
-      <tr>
-        <td>
-          <strong>{{ item.display_name }}</strong><br>
-          <small>{{ item.original_title }} · #{{ item.animeNo }}</small>
-        </td>
+[자막 상태판 열기](https://xixsxix.i234.me/anime-subtitles/){:target="_blank" rel="noopener noreferrer" .btn .btn-primary}
 
-        <td>
-          {% assign broadcast_week = item.broadcast_week | default: "" %}
-          {% assign broadcast_time = item.broadcast_time | default: "" %}
-          {% if broadcast_week != "" or broadcast_time != "" %}
-            {{ broadcast_week }} {{ broadcast_time }}
-          {% else %}
-            -
-          {% endif %}
-        </td>
+## 운영 방식
 
-        <td>
-          {% assign latest_episode = item.latest_episode | default: "" %}
-          {% if latest_episode != "" %}
-            {{ latest_episode }}화
-          {% else %}
-            -
-          {% endif %}
-        </td>
-
-        <td>
-          {% assign caption_author = item.caption_author | default: "" %}
-          {% if caption_author != "" %}
-            {{ caption_author }}
-          {% else %}
-            대기중
-          {% endif %}
-        </td>
-
-        <td>
-          {% assign latest_updDt = item.latest_updDt | default: "" %}
-          {% if latest_updDt != "" %}
-            {{ latest_updDt | replace: "T", " " }}
-          {% else %}
-            -
-          {% endif %}
-        </td>
-
-        <td>
-          {% assign caption_url = item.caption_url | default: "" %}
-          {% if caption_url != "" %}
-            <a href="{{ caption_url }}" target="_blank" rel="noopener noreferrer">자막</a>
-          {% else %}
-            <span>대기중</span>
-          {% endif %}
-        </td>
-  </tr>
-  {% endfor %}
-</tbody>
-
-  </table>
-</div>
+* 상태판 위치: `https://xixsxix.i234.me/anime-subtitles/`
+* 데이터 갱신: Synology NAS의 Python 스크립트
+* 수동 갱신: NAS 상태판의 `지금 갱신` 버튼
+* 자동 갱신: DSM 작업 스케줄러
+* GitHub Pages는 안내 페이지 역할만 담당
