@@ -77,5 +77,24 @@
       "caption_url": "https://blog.naver.com/elainalove1017/224324105274",
       "subtitle_status": "subtitle_ready"
     }
+    {
+      "animeNo": 3171,
+      "display_name": "비실비실 선생님",
+      "original_title": "よわよわ先生",
+      "status": "ON",
+      "broadcast_week": "토요일",
+      "broadcast_time": "21:30",
+      "genres": "코미디,로맨스",
+      "startDate": "2026-04-11",
+      "endDate": "2026-06-27",
+      "official_website": "https://www.yowayowasensei-anime.com/",
+      "official_x": "https://x.com/yowayowa_anime",
+      "captionCount": 11,
+      "latest_episode": "12",
+      "latest_updDt": "2026-06-23T05:19:00",
+      "caption_author": "별명따위",
+      "caption_url": "https://bluewater91.blogspot.com/2026/06/11_0280625936.html",
+      "subtitle_status": "subtitle_ready"
+    }
   ]
 }
