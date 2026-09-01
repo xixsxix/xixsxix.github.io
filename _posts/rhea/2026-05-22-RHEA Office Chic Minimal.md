@@ -10,7 +10,7 @@ image: /assets/rhea/rhea_office_chic_minimal_07.jpg
 permalink: /rhea_Office_Minimal/
 hide_image: false
 pin: false
-published: true
+published: false
 ---
 
 # RHEA Office Chic Minimal

@@ -8,11 +8,10 @@ tags:
   - european_cafe
   - black_heart_ruffle_dress
 image: /assets/rhea/SHOOT_EUROPEAN_CAFE_BLACK_HEART_DRESS_HORIZONTAL_01.jpg
-
 permalink: /cafe_ruffledress01/
 hide_image: false
 pin: false
-published: true
+published: false
 ---
 
 # rhea European Cafe Black Heart Ruffle Dress 01
