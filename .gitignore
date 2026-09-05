@@ -61,6 +61,16 @@ XIXSXIX/
 # Common Obsidian work folders
 z.*/
 
+# Track only Markdown documents in z.Books
+!z.Books/
+z.Books/**
+!z.Books/**/
+!z.Books/*.md
+!z.Books/**/*.md
+
+# Keep book cover images private/local
+z.Books/Cover/
+
 # Old / legacy private folders
 zz.*/
 
