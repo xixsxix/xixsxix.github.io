@@ -1,10 +1,12 @@
 ---
-title: 완벽한 독서법 - 모든 독서법을 관통하는 최고의 지침서
-author: 김병완
-summary: Perfect readingb “Reading is a revolution in life beyond reading!” What should we read before the question “Why should we read?” is “What is reading?” Before the question How should I read? is How do humans perceive, learn and grow? [48 min. reading] + [Superconscious Reading] + [Quantum Reading] Another masterpiece! Kim Byung-wan, the master of reading law, who raised three thousand books and 3000 reading geniuses. Kim Byung-wan, the mentor of Korean reading, is back! The author and reading expert of 『Volume Quantum Reading Method Vol.1』, Kim Byung-Wans Superconscious Reading Method, and 48-Minute Miracle Reading Method. Kim Byung-wan returns to Perfect Reading. In this book, he listens to the book reading with the wrong reading method and insists that the solution should be thinking with the brain. In addition, the book emphasizes various reading methods through examples of celebrities who have changed their lives through reading books. If you read 10,000 books and want to know all the reading methods that the author has learned from the constant reading method, you can quench your thirst through 'Perfect Reading' if you are unsure how to read your books.
-publisher: 글라이더
-isbn13: 9791186510599
-published: 2018/05/25
+title: "완벽한 독서법 - 모든 독서법을 관통하는 최고의 지침서"
+author: "김병완"
+description: "Perfect readingb “Reading is a revolution in life beyond reading!” What should we read before the question “Why should we read?” is “What is reading?” Before the question How should I read? is How do humans perceive, learn and grow? [48 min. reading] + [Superconscious Reading] + [Quantum Reading] Another masterpiece! Kim Byung-wan, the master of reading law, who raised three thousand books and 3000 reading geniuses. Kim Byung-wan, the mentor of Korean reading, is back! The author and reading expert of 『Volume Quantum Reading Method Vol.1』, Kim Byung-Wans Superconscious Reading Method, and 48-Minute Miracle Reading Method. Kim Byung-wan returns to Perfect Reading. In this book, he listens to the book reading with the wrong reading method and insists that the solution should be thinking with the brain. In addition, the book emphasizes various reading methods through examples of celebrities who have changed their lives through reading books. If you read 10,000 books and want to know all the reading methods that the author has learned from the constant reading method, you can quench your thirst through 'Perfect Reading' if you are unsure how to read your books."
+publisher: "글라이더"
+categories: ""
+isbn13: "9791186510599"
+published: "2018-05-25"
+pages: ""
 cover: "[[z.Books/Cover/완벽한 독서법 - 모든 독서법을 관통하는 최고의 지침서 — 김병완.jpg]]"
 tags:
   - 김병완
@@ -12,6 +14,7 @@ tags:
   - 성공
   - 성공학
 read: true
+date_read: ""
 read_start: 2026-09-02 05:40:09
 read_end: 2026-09-02 07:40:12
 reading_time: 120분

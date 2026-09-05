@@ -1,10 +1,12 @@
 ---
-title: 책 읽기 싫어하는 초등생을 위한 공감 독서법
-author: 진정용
-publisher: 서사원
-genre: 좋은부모, 교육/학습, 학교/학습법
-isbn13: 9791168220522
+title: "책 읽기 싫어하는 초등생을 위한 공감 독서법"
+author: "진정용"
+description: ""
+publisher: "서사원"
+categories: "좋은부모, 교육/학습, 학교/학습법"
+isbn13: "9791168220522"
 published: "2022"
+pages: ""
 cover: "[[z.Books/Cover/책 읽기 싫어하는 초등생을 위한 공감 독서법 - MBTI, 에니어그램으로 아이의 속마음 파악하고 독서 방향 잡기 — 진정용.jpg]]"
 tags:
   - 진정용

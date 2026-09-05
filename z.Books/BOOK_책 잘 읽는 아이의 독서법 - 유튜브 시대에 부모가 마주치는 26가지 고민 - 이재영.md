@@ -1,15 +1,18 @@
 ---
-title: 책 잘 읽는 아이의 독서법 - 유튜브 시대에 부모가 마주치는 26가지 고민
-author: 이재영
-publisher: 클
-genre: 좋은부모, 교육, 독서교육
-isbn13: 9791192512006
+title: "책 잘 읽는 아이의 독서법 - 유튜브 시대에 부모가 마주치는 26가지 고민"
+author: "이재영"
+description: ""
+publisher: "클"
+categories: "좋은부모, 교육, 독서교육"
+isbn13: "9791192512006"
 published: "2022"
+pages: ""
 cover: "[[z.Books/Cover/책 잘 읽는 아이의 독서법 - 유튜브 시대에 부모가 마주치는 26가지 고민 — 이재영.jpg]]"
 tags:
   - 이재영
   - 책_잘_읽는_아이의_독서법__유튜브_시대에_부모가_마주치는_26가지_고민
 read: true
+date_read: ""
 read_start: 2026-09-02 16:55:42
 read_end: 2026-09-02 17:50:22
 reading_time: 54분

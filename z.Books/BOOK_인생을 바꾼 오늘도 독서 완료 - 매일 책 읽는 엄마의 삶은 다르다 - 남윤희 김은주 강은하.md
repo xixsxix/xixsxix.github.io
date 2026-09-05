@@ -1,9 +1,12 @@
 ---
-title: 인생을 바꾼 오늘도 독서 완료 - 매일 책 읽는 엄마의 삶은 다르다
-author: 남윤희, 김은주, 강은하
-publisher: 미다스북스
-isbn13: 9791173553516
+title: "인생을 바꾼 오늘도 독서 완료 - 매일 책 읽는 엄마의 삶은 다르다"
+author: "남윤희, 김은주, 강은하"
+description: ""
+publisher: "미다스북스"
+categories: ""
+isbn13: "9791173553516"
 published: "2025"
+pages: ""
 cover: "[[z.Books/Cover/인생을 바꾼 오늘도 독서 완료 - 매일 책 읽는 엄마의 삶은 다르다 — 남윤희, 김은주, 강은하.jpg]]"
 tags:
   - 남윤희
@@ -12,6 +15,7 @@ tags:
   - 에세이
   - 독서에세이
 read: true
+date_read: ""
 read_start: 2026-09-04 03:46:55
 read_end: 2026-09-04 04:38:59
 reading_time: 52분
